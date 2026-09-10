@@ -1,30 +1,30 @@
 {
-  "version": 1,
+  "version": 2,
   "tileSize": 256,
   "targets": {
     "moon": {
       "width": 3240,
       "height": 3240,
       "maxZoom": 4,
-      "version": 1
+      "version": 2
     },
     "saturn": {
       "width": 8888,
       "height": 4544,
       "maxZoom": 6,
-      "version": 1
+      "version": 2
     },
     "orion": {
-      "width": 1280,
-      "height": 1280,
-      "maxZoom": 3,
-      "version": 1
+      "width": 18000,
+      "height": 18000,
+      "maxZoom": 7,
+      "version": 2
     },
     "sun": {
-      "width": 1024,
-      "height": 1024,
-      "maxZoom": 2,
-      "version": 1
+      "width": 4096,
+      "height": 4096,
+      "maxZoom": 4,
+      "version": 2
     }
   }
 }

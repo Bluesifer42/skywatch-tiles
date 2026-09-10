@@ -1,13 +1,13 @@
 {
   "id": "orion",
   "name": "Orion Nebula (M42)",
-  "width": 1280,
-  "height": 1280,
+  "width": 18000,
+  "height": 18000,
   "tileSize": 256,
-  "maxZoom": 3,
+  "maxZoom": 7,
   "format": "jpg",
   "credit": "NASA, ESA, M. Robberto (STScI/ESA) and the Hubble Space Telescope Orion Treasury Project Team",
   "licence": "ESA/Hubble, CC BY 4.0",
-  "source": "https://esahubble.org/media/archives/images/screen/heic0601a.jpg",
-  "version": 1
+  "source": "https://esahubble.org/media/archives/images/large/heic0601a.jpg",
+  "version": 2
 }

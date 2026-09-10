@@ -1,13 +1,13 @@
 {
   "id": "sun",
   "name": "The Sun",
-  "width": 1024,
-  "height": 1024,
+  "width": 4096,
+  "height": 4096,
   "tileSize": 256,
-  "maxZoom": 2,
+  "maxZoom": 4,
   "format": "jpg",
   "credit": "NASA/SDO (HMI white-light continuum)",
   "licence": "NASA, public domain",
-  "source": "https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIIC.jpg",
-  "version": 1
+  "source": "https://sdo.gsfc.nasa.gov/assets/img/latest/latest_4096_HMIIC.jpg",
+  "version": 2
 }

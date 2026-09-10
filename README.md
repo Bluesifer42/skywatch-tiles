@@ -10,7 +10,7 @@ Layout: `tiles/<target>/manifest.json` and `tiles/<target>/<z>/<x>_<y>.jpg` (256
 |---|---|---|---|
 | Moon | NASA/GSFC (Lunar Reconnaissance Orbiter LOLA and LROC data) | NASA, public domain | https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000868/GSFC_20171208_Archive_e000868~orig.jpg |
 | Saturn | NASA/JPL/Space Science Institute (Cassini, 2004 natural-colour mosaic) | NASA, public domain | https://images-assets.nasa.gov/image/PIA06193/PIA06193~orig.jpg |
-| Orion Nebula | NASA, ESA, M. Robberto (STScI/ESA) and the Hubble Space Telescope Orion Treasury Project Team | CC BY 4.0 | https://esahubble.org/media/archives/images/screen/heic0601a.jpg |
-| Sun | NASA/SDO (HMI white-light continuum) | NASA, public domain | https://sdo.gsfc.nasa.gov/assets/img/latest/latest_4096_HMIIC.jpg |
+| Orion Nebula | NASA, ESA, M. Robberto (STScI/ESA) and the Hubble Space Telescope Orion Treasury Project Team | CC BY 4.0 | https://esahubble.org/media/archives/images/large/heic0601a.jpg (18000 px) |
+| Sun | NASA/SDO (HMI white-light continuum) | NASA, public domain | https://sdo.gsfc.nasa.gov/assets/img/latest/latest_4096_HMIIC.jpg (4096 px, snapshot 2026-09-10) |
 
 NASA material is used without the NASA logo and implies no endorsement.
