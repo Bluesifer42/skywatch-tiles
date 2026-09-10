@@ -1,0 +1,13 @@
+{
+  "id": "moon",
+  "name": "The Moon",
+  "width": 3240,
+  "height": 3240,
+  "tileSize": 256,
+  "maxZoom": 4,
+  "format": "jpg",
+  "credit": "NASA/GSFC (Lunar Reconnaissance Orbiter LOLA and LROC data)",
+  "licence": "NASA, public domain",
+  "source": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000868/GSFC_20171208_Archive_e000868~orig.jpg",
+  "version": 1
+}

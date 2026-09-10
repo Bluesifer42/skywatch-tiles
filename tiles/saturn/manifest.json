@@ -1,0 +1,13 @@
+{
+  "id": "saturn",
+  "name": "Saturn",
+  "width": 8888,
+  "height": 4544,
+  "tileSize": 256,
+  "maxZoom": 6,
+  "format": "jpg",
+  "credit": "NASA/JPL/Space Science Institute (Cassini, 2004 natural-colour mosaic)",
+  "licence": "NASA, public domain",
+  "source": "https://images-assets.nasa.gov/image/PIA06193/PIA06193~orig.jpg",
+  "version": 1
+}

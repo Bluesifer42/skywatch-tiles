@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "tileSize": 256,
+  "targets": {
+    "moon": {
+      "width": 3240,
+      "height": 3240,
+      "maxZoom": 4,
+      "version": 1
+    },
+    "saturn": {
+      "width": 8888,
+      "height": 4544,
+      "maxZoom": 6,
+      "version": 1
+    },
+    "orion": {
+      "width": 1280,
+      "height": 1280,
+      "maxZoom": 3,
+      "version": 1
+    },
+    "sun": {
+      "width": 1024,
+      "height": 1024,
+      "maxZoom": 2,
+      "version": 1
+    }
+  }
+}
