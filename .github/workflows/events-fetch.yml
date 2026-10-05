@@ -1,0 +1,32 @@
+name: Fetch sky events
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh drafts from every source
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+        run: python pipeline/fetch_events.py fetch
+      - name: Open or update the review pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: events/drafts
+          title: "Sky events: drafts to review"
+          commit-message: "events: refresh drafts"
+          body-path: pipeline/out/pr_body.md
+          add-paths: events/drafts.json
+          delete-branch: true

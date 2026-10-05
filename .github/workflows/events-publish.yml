@@ -1,0 +1,26 @@
+name: Publish sky events
+
+on:
+  push:
+    branches: [main]
+    paths: ["events/drafts.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m unittest discover -s pipeline/tests
+      - name: Write the approved feeds
+        run: python pipeline/fetch_events.py publish
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "events: publish approved feed"
+          file_pattern: "events/events.json events/events-lite.json"

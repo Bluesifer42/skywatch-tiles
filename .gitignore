@@ -1,2 +1,3 @@
-.DS_Store
-Thumbs.db
+pipeline/out/
+__pycache__/
+*.pyc

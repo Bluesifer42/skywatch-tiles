@@ -1,0 +1,1901 @@
+{
+ "generated": "2026-10-05T20:51:53Z",
+ "events": [
+  {
+   "id": "news:www-esa-int-esa-multimedia-images-2026-09-galaxies-in-a-cosm",
+   "kind": "news",
+   "title": "Galaxies in a cosmic house of mirrors",
+   "summary": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies…",
+   "start": "2026-09-29T08:00:00Z",
+   "peak": "2026-09-29T08:00:00Z",
+   "end": "2026-10-06T08:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "ESA",
+   "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
+   "sources": [
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "8a0381c9f79a"
+  },
+  {
+   "id": "news:www-esa-int-science-exploration-human-and-robotic-exploratio",
+   "kind": "news",
+   "title": "Happy New Year on Mars",
+   "summary": "30 September 2026 marks the start of a new year on Mars. At exactly 10:16 CEST/08:16 UTC on Earth, the Red Planet begins a new orbit around our Sun.",
+   "start": "2026-09-30T06:00:00Z",
+   "peak": "2026-09-30T06:00:00Z",
+   "end": "2026-10-07T06:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "ESA",
+   "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
+   "sources": [
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "899eaa768d5e"
+  },
+  {
+   "id": "news:www-esa-int-science-exploration-space-science-smile-science-",
+   "kind": "news",
+   "title": "Science begins for Smile",
+   "summary": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the…",
+   "start": "2026-09-30T07:05:00Z",
+   "peak": "2026-09-30T07:05:00Z",
+   "end": "2026-10-07T07:05:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "ESA",
+   "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
+   "sources": [
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "7f631625f48f"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-first-direct-image-of-protopl",
+   "kind": "news",
+   "title": "First Direct Image of Protoplanet Swirling Surrounding Gas",
+   "summary": "The formation and evolution of planets is the driving force behind both where and how we might find life beyond Earth. This complex and lengthy process first begins with a massive ball of gas and dust that swirls until…",
+   "start": "2026-10-01T03:05:35Z",
+   "peak": "2026-10-01T03:05:35Z",
+   "end": "2026-10-08T03:05:35Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/first-direct-image-of-protoplanet-swirling-surrounding-gas",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/first-direct-image-of-protoplanet-swirling-surrounding-gas",
+     "fetched": "2026-10-05T20:49:06Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:06Z",
+   "lastSeen": "2026-10-05T20:51:53Z",
+   "contentHash": "efe86109cad2"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-mars-north-pole-ice-is-far-cl",
+   "kind": "news",
+   "title": "Mars' North Pole Ice Is Far Cleaner Than Expected",
+   "summary": "The planet Mars is known for its massive dust storms, dust devils, and two large polar ice caps, with its north polar cap being one of the Red Planet’s most striking features. Comprised of water ice, the north polar cap…",
+   "start": "2026-10-01T05:45:19Z",
+   "peak": "2026-10-01T05:45:19Z",
+   "end": "2026-10-08T05:45:19Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/mars-north-pole-ice-is-far-cleaner-than-expected",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/mars-north-pole-ice-is-far-cleaner-than-expected",
+     "fetched": "2026-10-05T20:49:06Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:06Z",
+   "lastSeen": "2026-10-05T20:51:53Z",
+   "contentHash": "bc7dab96ea6b"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-exercise-keeps-astronaut-hear",
+   "kind": "news",
+   "title": "Exercise Keeps Astronaut Hearts in Fighting Shape for the Journey to Mars",
+   "summary": "Getting a human body to Mars will take a toll on it. NASA and other space agencies have been concerned for years that the 6-9 month travel time to get to the Red Planet could have such a deleterious impact on human…",
+   "start": "2026-10-01T10:09:07Z",
+   "peak": "2026-10-01T10:09:07Z",
+   "end": "2026-10-08T10:09:07Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/exercise-keeps-astronaut-hearts-in-fighting-shape-for-the-journey-to-mars",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/exercise-keeps-astronaut-hearts-in-fighting-shape-for-the-journey-to-mars",
+     "fetched": "2026-10-05T20:49:06Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:06Z",
+   "lastSeen": "2026-10-05T20:51:53Z",
+   "contentHash": "345a78454ead"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-nasas-hubble-marks-its-200000",
+   "kind": "news",
+   "title": "NASA's Hubble Marks its 200,000th Orbit by Watching Lensed Supernova",
+   "summary": "NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19th and marked this milestone with observations that could help refine astronomers' measurements of cosmic expansion (aka. the Hubble…",
+   "start": "2026-10-01T20:29:07Z",
+   "peak": "2026-10-01T20:29:07Z",
+   "end": "2026-10-08T20:29:07Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/nasas-hubble-marks-its-200000th-orbit-by-watching-lensed-supernova",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/nasas-hubble-marks-its-200000th-orbit-by-watching-lensed-supernova",
+     "fetched": "2026-10-05T20:49:06Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:06Z",
+   "lastSeen": "2026-10-05T20:51:53Z",
+   "contentHash": "e7a8b047eb44"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-nasas-first-selection-for-a-n",
+   "kind": "news",
+   "title": "NASA's First Selection for a New Class of Mission: The PRIMA Far-Infrared Telescope",
+   "summary": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the…",
+   "start": "2026-10-01T22:09:16Z",
+   "peak": "2026-10-01T22:09:16Z",
+   "end": "2026-10-08T22:09:16Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/nasas-first-selection-for-a-new-class-of-mission-the-prima-far-infrared-telescope",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/nasas-first-selection-for-a-new-class-of-mission-the-prima-far-infrared-telescope",
+     "fetched": "2026-10-05T20:49:06Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:06Z",
+   "lastSeen": "2026-10-05T20:51:53Z",
+   "contentHash": "91aa16abde2f"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-asteroid-bennu-has-an-identit",
+   "kind": "news",
+   "title": "Asteroid Bennu Has an Identity Crisis, and Jupiter Might Be to Blame",
+   "summary": "Asteroid sample return missions have brought well preserved samples of the early solar system (that hadn’t been roasted in a fireball) back to Earth for the first time. But those samples, like the OSIRIS-REx sample from…",
+   "start": "2026-10-02T10:00:00Z",
+   "peak": "2026-10-02T10:00:00Z",
+   "end": "2026-10-09T10:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/asteroid-bennu-has-an-identity-crisis-and-jupiter-might-be-to-blame",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/asteroid-bennu-has-an-identity-crisis-and-jupiter-might-be-to-blame",
+     "fetched": "2026-10-05T20:49:06Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:06Z",
+   "lastSeen": "2026-10-05T20:51:53Z",
+   "contentHash": "c365e916b83d"
+  },
+  {
+   "id": "news:earthsky-org-space-earthlike-planet-with-2-stars-70-ophiuchi",
+   "kind": "news",
+   "title": "Could an Earthlike planet with 2 stars be nearby?",
+   "summary": "A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star system. The post Could an Earthlike planet with 2 stars be nearby? first…",
+   "start": "2026-10-02T11:12:52Z",
+   "peak": "2026-10-02T11:12:52Z",
+   "end": "2026-10-09T11:12:52Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "aa09c4d1d312"
+  },
+  {
+   "id": "news:earthsky-org-space-alien-radio-signal-k2-155-d-fast-seti",
+   "kind": "news",
+   "title": "Is this an alien radio signal from a super-Earth exoplanet?",
+   "summary": "Did China's FAST radio telescope detect an alien radio signal coming from the super-Earth exoplanet K2-155 d? Probably not. The post Is this an alien radio signal from a super-Earth exoplanet? first appeared on EarthSky…",
+   "start": "2026-10-02T11:19:32Z",
+   "peak": "2026-10-02T11:19:32Z",
+   "end": "2026-10-09T11:19:32Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/alien-radio-signal-k2-155-d-fast-seti/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/alien-radio-signal-k2-155-d-fast-seti/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "2d406bc9cc2e"
+  },
+  {
+   "id": "news:earthsky-org-astronomy-essentials-saturn-at-opposition-close",
+   "kind": "news",
+   "title": "We fly between the sun and Saturn. At opposition today",
+   "summary": "Don't miss Saturn at opposition on and around the night of October 4, 2026. That's when our planet Earth passes between the sun and Saturn. The post We fly between the sun and Saturn. At opposition today first appeared…",
+   "start": "2026-10-04T11:49:00Z",
+   "peak": "2026-10-04T11:49:00Z",
+   "end": "2026-10-11T11:49:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/astronomy-essentials/saturn-at-opposition-closest-brightest-best/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/astronomy-essentials/saturn-at-opposition-closest-brightest-best/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "6880ce696816"
+  },
+  {
+   "id": "news:www-nasa-gov-general-mapping-the-gaps-in-nasas-return-to-the",
+   "kind": "news",
+   "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
+   "summary": "“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific mission, not even NASA itself, just the…",
+   "start": "2026-10-04T19:10:59Z",
+   "peak": "2026-10-04T19:10:59Z",
+   "end": "2026-10-11T19:10:59Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "dc6aa3bab619"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-xrism-makes-first-ever-detect",
+   "kind": "news",
+   "title": "XRISM Makes First-Ever Detection of a Pulsar Feeding from a Companion's Stellar \"Wind\"",
+   "summary": "Using data from the Japan-led XRISM observatory, astronomers have directly observed a giant star’s stellar wind captured by its compact companion (triggering X-ray flares) for the first time.",
+   "start": "2026-10-04T21:54:36Z",
+   "peak": "2026-10-04T21:54:36Z",
+   "end": "2026-10-11T21:54:36Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/xrism-makes-first-ever-detection-of-a-pulsar-feeding-from-a-companions-stellar-wind",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/xrism-makes-first-ever-detection-of-a-pulsar-feeding-from-a-companions-stellar-wind",
+     "fetched": "2026-10-05T20:49:06Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:06Z",
+   "lastSeen": "2026-10-05T20:51:53Z",
+   "contentHash": "5793bd36da92"
+  },
+  {
+   "id": "news:science-nasa-gov-earth-earth-observatory-moon-like-madagasca",
+   "kind": "news",
+   "title": "Moon-Like Madagascar",
+   "summary": "A bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the country’s south.",
+   "start": "2026-10-05T04:01:00Z",
+   "peak": "2026-10-05T04:01:00Z",
+   "end": "2026-10-12T04:01:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "ef6e9a850fc9"
+  },
+  {
+   "id": "news:science-nasa-gov-image-article-apod-2026-october-5-m104-the-",
+   "kind": "news",
+   "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
+   "summary": "APOD Science APOD APOD: 2026 October 5 – M104:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "start": "2026-10-05T04:05:00Z",
+   "peak": "2026-10-05T04:05:00Z",
+   "end": "2026-10-12T04:05:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "658a9e64d499"
+  },
+  {
+   "id": "news:earthsky-org-sun-sun-news-activity-solar-flare-cme-aurora-up",
+   "kind": "news",
+   "title": "Sun news: Coronal hole winds caused auroras last night",
+   "summary": "Sun news October 5, 2026: A coronal hole high-speed stream drove G2 (moderate) geomagnetic storm levels last night, triggering auroras. The post Sun news: Coronal hole winds caused auroras last night first appeared on…",
+   "start": "2026-10-05T09:00:53Z",
+   "peak": "2026-10-05T09:00:53Z",
+   "end": "2026-10-12T09:00:53Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "c7218f3716cb"
+  },
+  {
+   "id": "news:earthsky-org-astronomy-essentials-visible-planets-tonight-ma",
+   "kind": "news",
+   "title": "Visible planets and night sky guide for October",
+   "summary": "Visible planets and night sky guide. Tomorrow morning, look for the moon near Jupiter, Mars and the Beehive. Some observers can see the moon occult Jupiter. The post Visible planets and night sky guide for October first…",
+   "start": "2026-10-05T10:00:08Z",
+   "peak": "2026-10-05T10:00:08Z",
+   "end": "2026-10-12T10:00:08Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "2fa565df5da6"
+  },
+  {
+   "id": "news:apod-2026-10-05",
+   "kind": "news",
+   "title": "Picture of the day: NASA Science",
+   "summary": "A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key defining feature of this huge galaxy is a dark brim of dust that circles the disk galaxy's center. A much longer… Image: NASA APOD.",
+   "start": "2026-10-05T12:00:00Z",
+   "peak": "2026-10-05T12:00:00Z",
+   "end": "2026-10-08T12:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA APOD",
+   "sourceUrl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+   "sources": [
+    {
+     "name": "NASA APOD",
+     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+     "fetched": "2026-10-05T20:49:06Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:06Z",
+   "lastSeen": "2026-10-05T20:51:53Z",
+   "contentHash": "6cb41347d197"
+  },
+  {
+   "id": "news:science-nasa-gov-missions-hubble-suspected-second-generation",
+   "kind": "news",
+   "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
+   "summary": "New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems.",
+   "start": "2026-10-05T15:00:35Z",
+   "peak": "2026-10-05T15:00:35Z",
+   "end": "2026-10-12T15:00:35Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "b29c6eeebbfe"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-chandra-x-ray-observatory-dro",
+   "kind": "news",
+   "title": "Chandra X-ray Observatory Drops New View of our Galaxy’s Unruly Centre",
+   "summary": "The core of the Milky Way is a dense, active, messy region, dominated by a supermassive black hole called Sagittarius A* (Sgr A*) hiding at the heart of the galaxy. But Sgr A* is only a supporting actor in this stunning…",
+   "start": "2026-10-05T15:52:00Z",
+   "peak": "2026-10-05T15:52:00Z",
+   "end": "2026-10-12T15:52:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/chandra-x-ray-observatory-drops-new-view-of-our-galaxys-unruly-centre",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/chandra-x-ray-observatory-drops-new-view-of-our-galaxys-unruly-centre",
+     "fetched": "2026-10-05T20:49:06Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:06Z",
+   "lastSeen": "2026-10-05T20:51:53Z",
+   "contentHash": "fb585a31a524"
+  },
+  {
+   "id": "shower:DRA:2026",
+   "kind": "meteorShower",
+   "title": "Draconids peak",
+   "summary": "Up to 10 an hour under a perfect dark sky, fewer in practice. Debris from comet 21P/Giacobini-Zinner, hitting the atmosphere at 20 km/s. Best after midnight when the radiant is high.",
+   "start": "2026-10-06T00:00:00Z",
+   "peak": "2026-10-08T12:00:00Z",
+   "end": "2026-10-10T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 262,
+   "radiantDecDeg": 54,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "b482c3ff64d5"
+  },
+  {
+   "id": "shower:STA:2026",
+   "kind": "meteorShower",
+   "title": "Southern Taurids peak",
+   "summary": "Up to 5 an hour under a perfect dark sky, fewer in practice. Debris from comet 2P/Encke, hitting the atmosphere at 27 km/s. Best after midnight when the radiant is high.",
+   "start": "2026-09-10T00:00:00Z",
+   "peak": "2026-10-10T12:00:00Z",
+   "end": "2026-11-20T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 32,
+   "radiantDecDeg": 9,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "6bdbdd23bb00"
+  },
+  {
+   "id": "shower:ORI:2026",
+   "kind": "meteorShower",
+   "title": "Orionids peak",
+   "summary": "Up to 20 an hour under a perfect dark sky, fewer in practice. Debris from Halley's comet, hitting the atmosphere at 66 km/s. Best after midnight when the radiant is high.",
+   "start": "2026-10-02T00:00:00Z",
+   "peak": "2026-10-21T12:00:00Z",
+   "end": "2026-11-07T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 95,
+   "radiantDecDeg": 16,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "e68ff3957da2"
+  },
+  {
+   "id": "shower:NTA:2026",
+   "kind": "meteorShower",
+   "title": "Northern Taurids peak",
+   "summary": "Up to 5 an hour under a perfect dark sky, fewer in practice. Debris from comet 2P/Encke, hitting the atmosphere at 29 km/s. Best after midnight when the radiant is high.",
+   "start": "2026-10-20T00:00:00Z",
+   "peak": "2026-11-12T12:00:00Z",
+   "end": "2026-12-10T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 58,
+   "radiantDecDeg": 22,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "01f4ab53992c"
+  },
+  {
+   "id": "shower:LEO:2026",
+   "kind": "meteorShower",
+   "title": "Leonids peak",
+   "summary": "Up to 10 an hour under a perfect dark sky, fewer in practice. Debris from comet 55P/Tempel-Tuttle, hitting the atmosphere at 71 km/s. Best after midnight when the radiant is high.",
+   "start": "2026-11-06T00:00:00Z",
+   "peak": "2026-11-17T12:00:00Z",
+   "end": "2026-11-30T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 152,
+   "radiantDecDeg": 22,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "789d770e89e8"
+  },
+  {
+   "id": "shower:GEM:2026",
+   "kind": "meteorShower",
+   "title": "Geminids peak",
+   "summary": "Up to 150 an hour under a perfect dark sky, fewer in practice. Debris from asteroid 3200 Phaethon, hitting the atmosphere at 35 km/s. Best after midnight when the radiant is high.",
+   "start": "2026-12-04T00:00:00Z",
+   "peak": "2026-12-14T12:00:00Z",
+   "end": "2026-12-20T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 112,
+   "radiantDecDeg": 33,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "474d90f1b669"
+  },
+  {
+   "id": "shower:URS:2026",
+   "kind": "meteorShower",
+   "title": "Ursids peak",
+   "summary": "Up to 10 an hour under a perfect dark sky, fewer in practice. Debris from comet 8P/Tuttle, hitting the atmosphere at 33 km/s. Best after midnight when the radiant is high.",
+   "start": "2026-12-17T00:00:00Z",
+   "peak": "2026-12-22T12:00:00Z",
+   "end": "2026-12-26T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 217,
+   "radiantDecDeg": 76,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "7be2a3a29f9b"
+  },
+  {
+   "id": "shower:QUA:2027",
+   "kind": "meteorShower",
+   "title": "Quadrantids peak",
+   "summary": "Up to 110 an hour under a perfect dark sky, fewer in practice. Debris from asteroid 2003 EH1, hitting the atmosphere at 41 km/s. Best after midnight when the radiant is high.",
+   "start": "2026-12-28T00:00:00Z",
+   "peak": "2027-01-03T12:00:00Z",
+   "end": "2027-01-12T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 230,
+   "radiantDecDeg": 49,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "f5c698cc5125"
+  },
+  {
+   "id": "eclipse:annular-solar:2027-02-06",
+   "kind": "eclipse",
+   "title": "Annular solar eclipse",
+   "summary": "Visible from: South America, Atlantic, west Africa. Never look at the Sun without a proper solar filter, eclipse or not.",
+   "start": "2027-02-06T00:00:00Z",
+   "peak": "2027-02-06T12:00:00Z",
+   "end": "2027-02-06T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "sun",
+   "bodyIds": [
+    "sun"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "b955c261ae1a"
+  },
+  {
+   "id": "shower:LYR:2027",
+   "kind": "meteorShower",
+   "title": "Lyrids peak",
+   "summary": "Up to 18 an hour under a perfect dark sky, fewer in practice. Debris from comet C/1861 G1 Thatcher, hitting the atmosphere at 49 km/s. Best after midnight when the radiant is high.",
+   "start": "2027-04-14T00:00:00Z",
+   "peak": "2027-04-22T12:00:00Z",
+   "end": "2027-04-30T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 271,
+   "radiantDecDeg": 34,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "ff23e04dffc1"
+  },
+  {
+   "id": "shower:ETA:2027",
+   "kind": "meteorShower",
+   "title": "Eta Aquariids peak",
+   "summary": "Up to 50 an hour under a perfect dark sky, fewer in practice. Debris from Halley's comet, hitting the atmosphere at 66 km/s. Best after midnight when the radiant is high.",
+   "start": "2027-04-19T00:00:00Z",
+   "peak": "2027-05-06T12:00:00Z",
+   "end": "2027-05-28T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 338,
+   "radiantDecDeg": -1,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "15124d6969a0"
+  },
+  {
+   "id": "shower:SDA:2027",
+   "kind": "meteorShower",
+   "title": "Southern delta Aquariids peak",
+   "summary": "Up to 25 an hour under a perfect dark sky, fewer in practice. Debris from comet 96P/Machholz, hitting the atmosphere at 41 km/s. Best after midnight when the radiant is high.",
+   "start": "2027-07-12T00:00:00Z",
+   "peak": "2027-07-30T12:00:00Z",
+   "end": "2027-08-23T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 340,
+   "radiantDecDeg": -16,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "e42f01f40700"
+  },
+  {
+   "id": "eclipse:total-solar:2027-08-02",
+   "kind": "eclipse",
+   "title": "Total solar eclipse",
+   "summary": "Visible from: North Africa and the Middle East; six minutes at Luxor. Never look at the Sun without a proper solar filter, eclipse or not.",
+   "start": "2027-08-02T00:00:00Z",
+   "peak": "2027-08-02T12:00:00Z",
+   "end": "2027-08-02T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "sun",
+   "bodyIds": [
+    "sun"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "e510e93abc91"
+  },
+  {
+   "id": "shower:PER:2027",
+   "kind": "meteorShower",
+   "title": "Perseids peak",
+   "summary": "Up to 100 an hour under a perfect dark sky, fewer in practice. Debris from comet 109P/Swift-Tuttle, hitting the atmosphere at 59 km/s. Best after midnight when the radiant is high.",
+   "start": "2027-07-17T00:00:00Z",
+   "peak": "2027-08-12T12:00:00Z",
+   "end": "2027-08-24T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 48,
+   "radiantDecDeg": 58,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "b758b78a7d30"
+  },
+  {
+   "id": "shower:DRA:2027",
+   "kind": "meteorShower",
+   "title": "Draconids peak",
+   "summary": "Up to 10 an hour under a perfect dark sky, fewer in practice. Debris from comet 21P/Giacobini-Zinner, hitting the atmosphere at 20 km/s. Best after midnight when the radiant is high.",
+   "start": "2027-10-06T00:00:00Z",
+   "peak": "2027-10-08T12:00:00Z",
+   "end": "2027-10-10T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 262,
+   "radiantDecDeg": 54,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "6362677ace10"
+  },
+  {
+   "id": "shower:STA:2027",
+   "kind": "meteorShower",
+   "title": "Southern Taurids peak",
+   "summary": "Up to 5 an hour under a perfect dark sky, fewer in practice. Debris from comet 2P/Encke, hitting the atmosphere at 27 km/s. Best after midnight when the radiant is high.",
+   "start": "2027-09-10T00:00:00Z",
+   "peak": "2027-10-10T12:00:00Z",
+   "end": "2027-11-20T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 32,
+   "radiantDecDeg": 9,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "e14453b278c6"
+  },
+  {
+   "id": "shower:ORI:2027",
+   "kind": "meteorShower",
+   "title": "Orionids peak",
+   "summary": "Up to 20 an hour under a perfect dark sky, fewer in practice. Debris from Halley's comet, hitting the atmosphere at 66 km/s. Best after midnight when the radiant is high.",
+   "start": "2027-10-02T00:00:00Z",
+   "peak": "2027-10-21T12:00:00Z",
+   "end": "2027-11-07T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 95,
+   "radiantDecDeg": 16,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "0d4a18dd46c6"
+  },
+  {
+   "id": "shower:NTA:2027",
+   "kind": "meteorShower",
+   "title": "Northern Taurids peak",
+   "summary": "Up to 5 an hour under a perfect dark sky, fewer in practice. Debris from comet 2P/Encke, hitting the atmosphere at 29 km/s. Best after midnight when the radiant is high.",
+   "start": "2027-10-20T00:00:00Z",
+   "peak": "2027-11-12T12:00:00Z",
+   "end": "2027-12-10T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 58,
+   "radiantDecDeg": 22,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "cb0e9ce3256c"
+  },
+  {
+   "id": "shower:LEO:2027",
+   "kind": "meteorShower",
+   "title": "Leonids peak",
+   "summary": "Up to 10 an hour under a perfect dark sky, fewer in practice. Debris from comet 55P/Tempel-Tuttle, hitting the atmosphere at 71 km/s. Best after midnight when the radiant is high.",
+   "start": "2027-11-06T00:00:00Z",
+   "peak": "2027-11-17T12:00:00Z",
+   "end": "2027-11-30T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 152,
+   "radiantDecDeg": 22,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "656d99906122"
+  },
+  {
+   "id": "shower:GEM:2027",
+   "kind": "meteorShower",
+   "title": "Geminids peak",
+   "summary": "Up to 150 an hour under a perfect dark sky, fewer in practice. Debris from asteroid 3200 Phaethon, hitting the atmosphere at 35 km/s. Best after midnight when the radiant is high.",
+   "start": "2027-12-04T00:00:00Z",
+   "peak": "2027-12-14T12:00:00Z",
+   "end": "2027-12-20T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 112,
+   "radiantDecDeg": 33,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "0ff17d7468a4"
+  },
+  {
+   "id": "shower:URS:2027",
+   "kind": "meteorShower",
+   "title": "Ursids peak",
+   "summary": "Up to 10 an hour under a perfect dark sky, fewer in practice. Debris from comet 8P/Tuttle, hitting the atmosphere at 33 km/s. Best after midnight when the radiant is high.",
+   "start": "2027-12-17T00:00:00Z",
+   "peak": "2027-12-22T12:00:00Z",
+   "end": "2027-12-26T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": 217,
+   "radiantDecDeg": 76,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "static (IAU MDC)",
+   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+   "sources": [
+    {
+     "name": "static (IAU MDC)",
+     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
+     "fetched": "2026-10-05T20:49:03Z"
+    }
+   ],
+   "confidence": 0.9,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:03Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:03Z",
+   "lastSeen": "2026-10-05T20:51:51Z",
+   "contentHash": "e1995c7b2db8"
+  },
+  {
+   "id": "eclipse:partial-lunar:2028-01-12",
+   "kind": "eclipse",
+   "title": "Partial lunar eclipse",
+   "summary": "Visible from: Americas, Europe, Africa. Lunar eclipses are safe to watch with any instrument and need no filter.",
+   "start": "2028-01-12T00:00:00Z",
+   "peak": "2028-01-12T12:00:00Z",
+   "end": "2028-01-12T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "moon",
+   "bodyIds": [
+    "moon"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "7acabe372ada"
+  },
+  {
+   "id": "eclipse:annular-solar:2028-01-26",
+   "kind": "eclipse",
+   "title": "Annular solar eclipse",
+   "summary": "Visible from: South America, Atlantic, Iberia. Never look at the Sun without a proper solar filter, eclipse or not.",
+   "start": "2028-01-26T00:00:00Z",
+   "peak": "2028-01-26T12:00:00Z",
+   "end": "2028-01-26T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "sun",
+   "bodyIds": [
+    "sun"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "8e578eac1244"
+  },
+  {
+   "id": "eclipse:partial-lunar:2028-07-06",
+   "kind": "eclipse",
+   "title": "Partial lunar eclipse",
+   "summary": "Visible from: Africa, Europe, Asia, Australia. Lunar eclipses are safe to watch with any instrument and need no filter.",
+   "start": "2028-07-06T00:00:00Z",
+   "peak": "2028-07-06T12:00:00Z",
+   "end": "2028-07-06T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "moon",
+   "bodyIds": [
+    "moon"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "81bd40cd9eb5"
+  },
+  {
+   "id": "eclipse:total-solar:2028-07-22",
+   "kind": "eclipse",
+   "title": "Total solar eclipse",
+   "summary": "Visible from: Australia and New Zealand. Never look at the Sun without a proper solar filter, eclipse or not.",
+   "start": "2028-07-22T00:00:00Z",
+   "peak": "2028-07-22T12:00:00Z",
+   "end": "2028-07-22T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "sun",
+   "bodyIds": [
+    "sun"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "582dbf87b169"
+  },
+  {
+   "id": "eclipse:total-lunar:2028-12-31",
+   "kind": "eclipse",
+   "title": "Total lunar eclipse",
+   "summary": "Visible from: Europe, Africa, Asia, Australia. Lunar eclipses are safe to watch with any instrument and need no filter.",
+   "start": "2028-12-31T00:00:00Z",
+   "peak": "2028-12-31T12:00:00Z",
+   "end": "2028-12-31T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "moon",
+   "bodyIds": [
+    "moon"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "60c3a2ba6389"
+  },
+  {
+   "id": "eclipse:partial-solar:2029-01-14",
+   "kind": "eclipse",
+   "title": "Partial solar eclipse",
+   "summary": "Visible from: North America. Never look at the Sun without a proper solar filter, eclipse or not.",
+   "start": "2029-01-14T00:00:00Z",
+   "peak": "2029-01-14T12:00:00Z",
+   "end": "2029-01-14T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "sun",
+   "bodyIds": [
+    "sun"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "b392ede1ec86"
+  },
+  {
+   "id": "eclipse:total-lunar:2029-06-26",
+   "kind": "eclipse",
+   "title": "Total lunar eclipse",
+   "summary": "Visible from: Americas, Europe, Africa. Lunar eclipses are safe to watch with any instrument and need no filter.",
+   "start": "2029-06-26T00:00:00Z",
+   "peak": "2029-06-26T12:00:00Z",
+   "end": "2029-06-26T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "moon",
+   "bodyIds": [
+    "moon"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "c6906247b141"
+  },
+  {
+   "id": "eclipse:total-lunar:2029-12-20",
+   "kind": "eclipse",
+   "title": "Total lunar eclipse",
+   "summary": "Visible from: Americas, Europe, Africa, Asia. Lunar eclipses are safe to watch with any instrument and need no filter.",
+   "start": "2029-12-20T00:00:00Z",
+   "peak": "2029-12-20T12:00:00Z",
+   "end": "2029-12-20T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "moon",
+   "bodyIds": [
+    "moon"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "59fd4694a0f6"
+  },
+  {
+   "id": "eclipse:annular-solar:2030-06-01",
+   "kind": "eclipse",
+   "title": "Annular solar eclipse",
+   "summary": "Visible from: Europe, Russia, Japan. Never look at the Sun without a proper solar filter, eclipse or not.",
+   "start": "2030-06-01T00:00:00Z",
+   "peak": "2030-06-01T12:00:00Z",
+   "end": "2030-06-01T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "sun",
+   "bodyIds": [
+    "sun"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "61cbe27718ae"
+  },
+  {
+   "id": "eclipse:total-solar:2030-11-25",
+   "kind": "eclipse",
+   "title": "Total solar eclipse",
+   "summary": "Visible from: Southern Africa and Australia. Never look at the Sun without a proper solar filter, eclipse or not.",
+   "start": "2030-11-25T00:00:00Z",
+   "peak": "2030-11-25T12:00:00Z",
+   "end": "2030-11-25T23:59:00Z",
+   "dateOnly": true,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": "sun",
+   "bodyIds": [
+    "sun"
+   ],
+   "sourceName": "NASA eclipse catalogue",
+   "sourceUrl": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+   "sources": [
+    {
+     "name": "NASA eclipse catalogue",
+     "url": "https://eclipse.gsfc.nasa.gov/eclipse.html",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-05T20:49:05Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-05T20:51:52Z",
+   "contentHash": "2b85ebefb57f"
+  }
+ ]
+}

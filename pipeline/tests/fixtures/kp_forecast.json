@@ -1,0 +1,5 @@
+[{"time_tag":"2026-10-05T00:00:00","kp":2.33,"observed":"observed","noaa_scale":null},
+{"time_tag":"2026-10-05T03:00:00","kp":3.0,"observed":"estimated","noaa_scale":null},
+{"time_tag":"2026-10-06T18:00:00","kp":5.67,"observed":"predicted","noaa_scale":"G2"},
+{"time_tag":"2026-10-06T21:00:00","kp":6.0,"observed":"predicted","noaa_scale":"G2"},
+{"time_tag":"2026-10-07T00:00:00","kp":4.33,"observed":"predicted","noaa_scale":null}]
