@@ -1,0 +1,13 @@
+{
+  "id": "jupiter",
+  "name": "Jupiter",
+  "width": 3000,
+  "height": 3000,
+  "tileSize": 256,
+  "maxZoom": 4,
+  "format": "jpg",
+  "credit": "NASA/JPL-Caltech/SwRI/MSSS, image processing by Kevin M. Gill (Juno, 2019)",
+  "licence": "NASA, public domain (citizen-science processing credited)",
+  "source": "https://images-assets.nasa.gov/image/PIA22946/PIA22946~orig.jpg",
+  "version": 2
+}

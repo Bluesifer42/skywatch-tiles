@@ -1,0 +1,13 @@
+{
+  "id": "ring",
+  "name": "Ring Nebula (M57)",
+  "width": 1280,
+  "height": 1231,
+  "tileSize": 256,
+  "maxZoom": 3,
+  "format": "jpg",
+  "credit": "NASA, ESA, C.R. O'Dell (Vanderbilt University), and D. Thompson (LBT Observatory)",
+  "licence": "NASA, public domain",
+  "source": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001464/GSFC_20171208_Archive_e001464~orig.jpg",
+  "version": 2
+}

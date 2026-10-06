@@ -1,0 +1,13 @@
+{
+  "id": "pleiades",
+  "name": "Pleiades (M45)",
+  "width": 4877,
+  "height": 3515,
+  "tileSize": 256,
+  "maxZoom": 5,
+  "format": "jpg",
+  "credit": "NASA, ESA, AURA/Caltech, Palomar Observatory",
+  "licence": "NASA, public domain",
+  "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Pleiades_large.jpg",
+  "version": 2
+}

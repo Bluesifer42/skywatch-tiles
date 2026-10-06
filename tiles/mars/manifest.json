@@ -1,0 +1,13 @@
+{
+  "id": "mars",
+  "name": "Mars",
+  "width": 2000,
+  "height": 2000,
+  "tileSize": 256,
+  "maxZoom": 3,
+  "format": "jpg",
+  "credit": "NASA, ESA, the Hubble Heritage Team (STScI/AURA), J. Bell (ASU) and M. Wolff (SSI), May 2016",
+  "licence": "NASA, public domain",
+  "source": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000332/GSFC_20171208_Archive_e000332~orig.jpg",
+  "version": 2
+}

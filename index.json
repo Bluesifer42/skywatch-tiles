@@ -25,6 +25,36 @@
       "height": 4096,
       "maxZoom": 4,
       "version": 2
+    },
+    "jupiter": {
+      "width": 3000,
+      "height": 3000,
+      "maxZoom": 4,
+      "version": 2
+    },
+    "mars": {
+      "width": 2000,
+      "height": 2000,
+      "maxZoom": 3,
+      "version": 2
+    },
+    "ring": {
+      "width": 1280,
+      "height": 1231,
+      "maxZoom": 3,
+      "version": 2
+    },
+    "andromeda": {
+      "width": 3000,
+      "height": 1971,
+      "maxZoom": 4,
+      "version": 2
+    },
+    "pleiades": {
+      "width": 4877,
+      "height": 3515,
+      "maxZoom": 5,
+      "version": 2
     }
   }
 }

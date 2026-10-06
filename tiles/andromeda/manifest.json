@@ -1,0 +1,13 @@
+{
+  "id": "andromeda",
+  "name": "Andromeda Galaxy (M31)",
+  "width": 3000,
+  "height": 1971,
+  "tileSize": 256,
+  "maxZoom": 4,
+  "format": "jpg",
+  "credit": "Adam Evans, CC BY 2.0 (via Wikimedia Commons)",
+  "licence": "CC BY 2.0",
+  "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg",
+  "version": 2
+}

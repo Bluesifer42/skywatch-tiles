@@ -12,5 +12,10 @@ Layout: `tiles/<target>/manifest.json` and `tiles/<target>/<z>/<x>_<y>.jpg` (256
 | Saturn | NASA/JPL/Space Science Institute (Cassini, 2004 natural-colour mosaic) | NASA, public domain | https://images-assets.nasa.gov/image/PIA06193/PIA06193~orig.jpg |
 | Orion Nebula | NASA, ESA, M. Robberto (STScI/ESA) and the Hubble Space Telescope Orion Treasury Project Team | CC BY 4.0 | https://esahubble.org/media/archives/images/large/heic0601a.jpg (18000 px) |
 | Sun | NASA/SDO (HMI white-light continuum) | NASA, public domain | https://sdo.gsfc.nasa.gov/assets/img/latest/latest_4096_HMIIC.jpg (4096 px, snapshot 2026-09-10) |
+| Jupiter | NASA/JPL-Caltech/SwRI/MSSS, image processing by Kevin M. Gill (Juno, 2019) | NASA, public domain (citizen-science processing credited) | https://images-assets.nasa.gov/image/PIA22946/PIA22946~orig.jpg (3000 px) |
+| Mars | NASA, ESA, the Hubble Heritage Team (STScI/AURA), J. Bell (ASU) and M. Wolff (SSI), May 2016 | NASA, public domain | https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000332/GSFC_20171208_Archive_e000332~orig.jpg (2000 px) |
+| Ring Nebula | NASA, ESA, C.R. O'Dell (Vanderbilt University), and D. Thompson (LBT Observatory) | NASA, public domain | https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001464/GSFC_20171208_Archive_e001464~orig.jpg (1280 px) |
+| Andromeda Galaxy | Adam Evans | CC BY 2.0 | https://upload.wikimedia.org/wikipedia/commons/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg (3000 px) |
+| Pleiades | NASA, ESA, AURA/Caltech, Palomar Observatory | NASA, public domain | https://upload.wikimedia.org/wikipedia/commons/4/4e/Pleiades_large.jpg (4877 px) |
 
 NASA material is used without the NASA logo and implies no endorsement.
