@@ -1,7 +1,45 @@
 {
- "generated": "2026-10-05T20:58:11Z",
- "count": 5,
+ "generated": "2026-10-07T13:40:15Z",
+ "count": 8,
  "events": [
+  {
+   "id": "news:earthsky-org-tonight-cassiopeia-the-queen-also-points-to-and",
+   "kind": "news",
+   "title": "Find the Andromeda Galaxy using Cassiopeia",
+   "summary": "Leave the city behind this weekend and go galaxy-hunting! Cassiopeia - one of the easiest constellations to identify - points the way to the Andromeda Galaxy. The post Find the Andromeda Galaxy using Cassiopeia first…",
+   "start": "2026-10-07T08:01:01Z",
+   "peak": "2026-10-07T08:01:01Z",
+   "end": "2026-10-14T08:01:01Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/tonight/cassiopeia-the-queen-also-points-to-andromeda-galaxy/"
+  },
+  {
+   "id": "news:earthsky-org-astronomy-essentials-visible-planets-tonight-ma",
+   "kind": "news",
+   "title": "Visible planets and night sky guide for October",
+   "summary": "Visible planets and night sky guide. Tomorrow morning, look for the thin crescent moon close to the horizon, with Jupiter and the star Regulus nearby. The post Visible planets and night sky guide for October first…",
+   "start": "2026-10-07T12:00:08Z",
+   "peak": "2026-10-07T12:00:08Z",
+   "end": "2026-10-14T12:00:08Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/"
+  },
   {
    "id": "shower:DRA:2026",
    "kind": "meteorShower",
@@ -20,6 +58,27 @@
    "bodyIds": [],
    "sourceName": "static (IAU MDC)",
    "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/"
+  },
+  {
+   "id": "aurora:2026-10-09",
+   "kind": "aurora",
+   "title": "Aurora forecast: Kp 6 (G2)",
+   "summary": "NOAA forecasts a geomagnetic storm peaking around 09:00 UTC. Aurora possible from about 55° latitude and poleward (Scotland, Scandinavia, Canada). Look north from a dark spot after dusk; a phone camera on night mode sees it before your eyes do.",
+   "start": "2026-10-09T06:00:00Z",
+   "peak": "2026-10-09T09:00:00Z",
+   "end": "2026-10-09T15:00:00Z",
+   "dateOnly": false,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [
+    "sun"
+   ],
+   "sourceName": "NOAA SWPC",
+   "sourceUrl": "https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json"
   },
   {
    "id": "shower:STA:2026",
