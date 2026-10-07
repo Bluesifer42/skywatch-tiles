@@ -1112,10 +1112,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "approved",
    "review": {
-    "by": null,
-    "at": null,
+    "by": "human",
+    "at": "2026-10-07T13:39:50Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1256,10 +1256,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "approved",
    "review": {
-    "by": null,
-    "at": null,
+    "by": "human",
+    "at": "2026-10-07T13:39:50Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
