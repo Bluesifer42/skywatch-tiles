@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T20:51:53Z",
+ "generated": "2026-10-07T13:37:06Z",
  "events": [
   {
    "id": "news:www-esa-int-esa-multimedia-images-2026-09-galaxies-in-a-cosm",
@@ -322,7 +322,7 @@
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
    "contentHash": "c365e916b83d"
   },
   {
@@ -430,7 +430,7 @@
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
    "contentHash": "6880ce696816"
   },
   {
@@ -502,7 +502,7 @@
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
    "contentHash": "5793bd36da92"
   },
   {
@@ -576,78 +576,6 @@
    "firstSeen": "2026-10-05T20:49:05Z",
    "lastSeen": "2026-10-05T20:51:52Z",
    "contentHash": "658a9e64d499"
-  },
-  {
-   "id": "news:earthsky-org-sun-sun-news-activity-solar-flare-cme-aurora-up",
-   "kind": "news",
-   "title": "Sun news: Coronal hole winds caused auroras last night",
-   "summary": "Sun news October 5, 2026: A coronal hole high-speed stream drove G2 (moderate) geomagnetic storm levels last night, triggering auroras. The post Sun news: Coronal hole winds caused auroras last night first appeared on…",
-   "start": "2026-10-05T09:00:53Z",
-   "peak": "2026-10-05T09:00:53Z",
-   "end": "2026-10-12T09:00:53Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "c7218f3716cb"
-  },
-  {
-   "id": "news:earthsky-org-astronomy-essentials-visible-planets-tonight-ma",
-   "kind": "news",
-   "title": "Visible planets and night sky guide for October",
-   "summary": "Visible planets and night sky guide. Tomorrow morning, look for the moon near Jupiter, Mars and the Beehive. Some observers can see the moon occult Jupiter. The post Visible planets and night sky guide for October first…",
-   "start": "2026-10-05T10:00:08Z",
-   "peak": "2026-10-05T10:00:08Z",
-   "end": "2026-10-12T10:00:08Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "2fa565df5da6"
   },
   {
    "id": "news:apod-2026-10-05",
@@ -754,8 +682,589 @@
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
    "contentHash": "fb585a31a524"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-new-simulations-connect-the-f",
+   "kind": "news",
+   "title": "New Simulations Connect the First Galaxies to the Universe We See Today",
+   "summary": "In a recent study, researchers at the international MEGATRON project used some of the most detailed simulations of the early Universe to investigate how the first stars and galaxies formed.",
+   "start": "2026-10-05T22:33:00Z",
+   "peak": "2026-10-05T22:33:00Z",
+   "end": "2026-10-12T22:33:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/new-simulations-connect-the-first-stars-to-cosmic-fingerprints-still-visible-today",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/new-simulations-connect-the-first-stars-to-cosmic-fingerprints-still-visible-today",
+     "fetched": "2026-10-07T13:36:58Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
+   "contentHash": "9a1ac76a312b"
+  },
+  {
+   "id": "news:science-nasa-gov-image-article-apod-2026-october-6-a-complet",
+   "kind": "news",
+   "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
+   "summary": "APODScienceAPODAPOD: 2026 October 6 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our…",
+   "start": "2026-10-06T04:05:00Z",
+   "peak": "2026-10-06T04:05:00Z",
+   "end": "2026-10-13T04:05:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
+     "fetched": "2026-10-07T13:36:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
+   "contentHash": "1bc890183526"
+  },
+  {
+   "id": "news:earthsky-org-astronomy-essentials-flashing-star-autumn-capel",
+   "kind": "news",
+   "title": "Flashing star in autumn? Here are 3 candidates",
+   "summary": "Flashing star in October? Discover 3 bright stars that shimmer in red, green and other colors, and find out why they put on this dazzling show. The post Flashing star in autumn? Here are 3 candidates first appeared on…",
+   "start": "2026-10-06T08:55:56Z",
+   "peak": "2026-10-06T08:55:56Z",
+   "end": "2026-10-13T08:55:56Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/",
+     "fetched": "2026-10-07T13:36:58Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
+   "contentHash": "71702b0a9f59"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-a-buried-volcano-on-the-moon-",
+   "kind": "news",
+   "title": "A Buried Volcano on the Moon Hints At An Ancient Lunar Dynamo",
+   "summary": "Scientists know for certain the moon doesn’t currently have a magnetosphere. But they’ve been debating for decades about whether it ever did. Data from both Apollo samples and orbital scientific instruments have proven…",
+   "start": "2026-10-06T10:12:28Z",
+   "peak": "2026-10-06T10:12:28Z",
+   "end": "2026-10-13T10:12:28Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/a-buried-volcano-on-the-moon-hints-at-an-ancient-lunar-dynamo",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/a-buried-volcano-on-the-moon-hints-at-an-ancient-lunar-dynamo",
+     "fetched": "2026-10-07T13:36:58Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
+   "contentHash": "72e8f74fde5e"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-to-keep-gps-constellations-fr",
+   "kind": "news",
+   "title": "To Keep GPS Constellations From Drifting, Look To The Moon",
+   "summary": "Global Positioning Systems are a key feature in everyday life for much of the world’s population. Whether it’s ensuring a ship delivers its goods safely, or you’re able to avoid a road closure on your commute home, GPS…",
+   "start": "2026-10-06T11:09:32Z",
+   "peak": "2026-10-06T11:09:32Z",
+   "end": "2026-10-13T11:09:32Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/to-keep-gps-constellations-from-drifting-look-to-the-moon",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/to-keep-gps-constellations-from-drifting-look-to-the-moon",
+     "fetched": "2026-10-07T13:36:58Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
+   "contentHash": "9e8b929214da"
+  },
+  {
+   "id": "news:earthsky-org-space-most-bizarre-moons-solar-system",
+   "kind": "news",
+   "title": "Solar system’s most bizarre moons! Take the tour",
+   "summary": "The solar system’s most bizarre moons reveal active, complex worlds that continue to surprise scientists. Are any of them harboring life? The post Solar system’s most bizarre moons! Take the tour first appeared on…",
+   "start": "2026-10-06T11:30:32Z",
+   "peak": "2026-10-06T11:30:32Z",
+   "end": "2026-10-13T11:30:32Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/most-bizarre-moons-solar-system/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/most-bizarre-moons-solar-system/",
+     "fetched": "2026-10-07T13:36:58Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
+   "contentHash": "4e71b25b4133"
+  },
+  {
+   "id": "news:science-nasa-gov-missions-webb-nasas-webb-captures-commotion",
+   "kind": "news",
+   "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
+   "summary": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which…",
+   "start": "2026-10-06T13:00:00Z",
+   "peak": "2026-10-06T13:00:00Z",
+   "end": "2026-10-13T13:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
+     "fetched": "2026-10-07T13:36:56Z"
+    },
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
+     "fetched": "2026-10-07T13:36:57Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-07T13:36:57Z",
+   "contentHash": "728c6fd4b520"
+  },
+  {
+   "id": "news:www-nasa-gov-image-article-astronomers-solve-cosmic-cold-cas",
+   "kind": "news",
+   "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
+   "summary": "Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet. This artist’s concept released on Oct. 5, 2026, depicts that…",
+   "start": "2026-10-06T16:09:13Z",
+   "peak": "2026-10-06T16:09:13Z",
+   "end": "2026-10-13T16:09:13Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/",
+     "fetched": "2026-10-07T13:36:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
+   "contentHash": "75fae6992e0c"
+  },
+  {
+   "id": "news:www-nasa-gov-directorates-stmd-prizes-challenges-crowdsourci",
+   "kind": "news",
+   "title": "Lunar Grounding Challenge",
+   "summary": "As an astronaut traverses the lunar South Pole, tribocharging from walking on the lunar surface and plasma charging from the ambient plasma generate electric charge on the spacesuit. This problem is severely compounded…",
+   "start": "2026-10-06T18:22:24Z",
+   "peak": "2026-10-06T18:22:24Z",
+   "end": "2026-10-13T18:22:24Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/",
+     "fetched": "2026-10-07T13:36:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
+   "contentHash": "2c1f6d16ff50"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-galaxy-evolution-can-be-affec",
+   "kind": "news",
+   "title": "Galaxy Evolution Can be Affected by Black Hole Jets",
+   "summary": "In recent decades, astronomers have found evidence that supermassive black holes can really mess with their galaxies' evolution. They gobble up material intended for star formation, quenching the birth of stars.…",
+   "start": "2026-10-07T01:25:41Z",
+   "peak": "2026-10-07T01:25:41Z",
+   "end": "2026-10-14T01:25:41Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/galaxy-evolution-can-be-affected-by-black-hole-jets",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/galaxy-evolution-can-be-affected-by-black-hole-jets",
+     "fetched": "2026-10-07T13:36:58Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
+   "contentHash": "b1a2fe81f89d"
+  },
+  {
+   "id": "news:science-nasa-gov-image-article-apod-2026-october-7-supernova",
+   "kind": "news",
+   "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
+   "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "start": "2026-10-07T04:05:00Z",
+   "peak": "2026-10-07T04:05:00Z",
+   "end": "2026-10-14T04:05:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
+     "fetched": "2026-10-07T13:36:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
+   "contentHash": "08db9fcbdf8a"
+  },
+  {
+   "id": "news:earthsky-org-tonight-cassiopeia-the-queen-also-points-to-and",
+   "kind": "news",
+   "title": "Find the Andromeda Galaxy using Cassiopeia",
+   "summary": "Leave the city behind this weekend and go galaxy-hunting! Cassiopeia - one of the easiest constellations to identify - points the way to the Andromeda Galaxy. The post Find the Andromeda Galaxy using Cassiopeia first…",
+   "start": "2026-10-07T08:01:01Z",
+   "peak": "2026-10-07T08:01:01Z",
+   "end": "2026-10-14T08:01:01Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/tonight/cassiopeia-the-queen-also-points-to-andromeda-galaxy/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/tonight/cassiopeia-the-queen-also-points-to-andromeda-galaxy/",
+     "fetched": "2026-10-07T13:36:58Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "approved",
+   "review": {
+    "by": "human",
+    "at": "2026-10-07T13:39:50Z",
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
+   "contentHash": "dcfdee1be5f8"
+  },
+  {
+   "id": "news:earthsky-org-sun-sun-news-activity-solar-flare-cme-aurora-up",
+   "kind": "news",
+   "title": "Sun news: Sun-stuff headed our way, auroras to come?",
+   "summary": "Sun news, October 7, 2026: Sun-stuff from yesterday's M flares is heading to Earth. It's due to arrive on October 9, and could trigger auroras. The post Sun news: Sun-stuff headed our way, auroras to come? first…",
+   "start": "2026-10-07T09:00:53Z",
+   "peak": "2026-10-07T09:00:53Z",
+   "end": "2026-10-14T09:00:53Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
+   "contentHash": "556a269c4f91"
+  },
+  {
+   "id": "news:earthsky-org-todays-image-moon-and-jupiter-pics-oct-6-2026",
+   "kind": "news",
+   "title": "Moon and Jupiter pics here! A cosmic hide-and-seek",
+   "summary": "On Tuesday morning, the moon slid in front of Jupiter, blocking it from view. Our EarthSky community shared their moon and Jupiter pics. The post Moon and Jupiter pics here! A cosmic hide-and-seek first appeared on…",
+   "start": "2026-10-07T10:55:34Z",
+   "peak": "2026-10-07T10:55:34Z",
+   "end": "2026-10-14T10:55:34Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/todays-image/moon-and-jupiter-pics-oct-6-2026/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/todays-image/moon-and-jupiter-pics-oct-6-2026/",
+     "fetched": "2026-10-07T13:36:58Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
+   "contentHash": "810c6b6bc3c8"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-thousands-of-black-holes-coul",
+   "kind": "news",
+   "title": "Thousands of Black Holes Could Be Lurking in Our Backyard—and You Can Help Find Them",
+   "summary": "According to stellar evolution models, there should be hundreds of millions of black holes floating around in our galaxy. But so far we’ve only found 70. That’s in large part because they are so hard to find, but a…",
+   "start": "2026-10-07T11:10:32Z",
+   "peak": "2026-10-07T11:10:32Z",
+   "end": "2026-10-14T11:10:32Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/thousands-of-black-holes-could-be-lurking-in-our-backyardand-you-can-help-find-them",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/thousands-of-black-holes-could-be-lurking-in-our-backyardand-you-can-help-find-them",
+     "fetched": "2026-10-07T13:36:58Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
+   "contentHash": "04ca42be0550"
+  },
+  {
+   "id": "news:earthsky-org-astronomy-essentials-visible-planets-tonight-ma",
+   "kind": "news",
+   "title": "Visible planets and night sky guide for October",
+   "summary": "Visible planets and night sky guide. Tomorrow morning, look for the thin crescent moon close to the horizon, with Jupiter and the star Regulus nearby. The post Visible planets and night sky guide for October first…",
+   "start": "2026-10-07T12:00:08Z",
+   "peak": "2026-10-07T12:00:08Z",
+   "end": "2026-10-14T12:00:08Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "approved",
+   "review": {
+    "by": "human",
+    "at": "2026-10-07T13:39:50Z",
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-07T13:36:58Z",
+   "contentHash": "f74e662d7cae"
   },
   {
    "id": "shower:DRA:2026",
@@ -790,8 +1299,46 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "b482c3ff64d5"
+  },
+  {
+   "id": "aurora:2026-10-09",
+   "kind": "aurora",
+   "title": "Aurora forecast: Kp 6 (G2)",
+   "summary": "NOAA forecasts a geomagnetic storm peaking around 09:00 UTC. Aurora possible from about 55° latitude and poleward (Scotland, Scandinavia, Canada). Look north from a dark spot after dusk; a phone camera on night mode sees it before your eyes do.",
+   "start": "2026-10-09T06:00:00Z",
+   "peak": "2026-10-09T09:00:00Z",
+   "end": "2026-10-09T15:00:00Z",
+   "dateOnly": false,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [
+    "sun"
+   ],
+   "sourceName": "NOAA SWPC",
+   "sourceUrl": "https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json",
+   "sources": [
+    {
+     "name": "NOAA SWPC",
+     "url": "https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json",
+     "fetched": "2026-10-07T13:36:56Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-07T13:36:56Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
+   "contentHash": "175016ca9440"
   },
   {
    "id": "shower:STA:2026",
@@ -826,7 +1373,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "6bdbdd23bb00"
   },
   {
@@ -862,7 +1409,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "e68ff3957da2"
   },
   {
@@ -898,7 +1445,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "01f4ab53992c"
   },
   {
@@ -934,7 +1481,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "789d770e89e8"
   },
   {
@@ -970,7 +1517,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "474d90f1b669"
   },
   {
@@ -1006,7 +1553,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "7be2a3a29f9b"
   },
   {
@@ -1042,7 +1589,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "f5c698cc5125"
   },
   {
@@ -1080,7 +1627,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "b955c261ae1a"
   },
   {
@@ -1116,7 +1663,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "ff23e04dffc1"
   },
   {
@@ -1152,7 +1699,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "15124d6969a0"
   },
   {
@@ -1188,7 +1735,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "e42f01f40700"
   },
   {
@@ -1226,7 +1773,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "e510e93abc91"
   },
   {
@@ -1262,7 +1809,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "b758b78a7d30"
   },
   {
@@ -1298,7 +1845,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "6362677ace10"
   },
   {
@@ -1334,7 +1881,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "e14453b278c6"
   },
   {
@@ -1370,7 +1917,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "0d4a18dd46c6"
   },
   {
@@ -1406,7 +1953,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "cb0e9ce3256c"
   },
   {
@@ -1442,7 +1989,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "656d99906122"
   },
   {
@@ -1478,7 +2025,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "0ff17d7468a4"
   },
   {
@@ -1514,7 +2061,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-05T20:51:51Z",
+   "lastSeen": "2026-10-07T13:36:55Z",
    "contentHash": "e1995c7b2db8"
   },
   {
@@ -1552,7 +2099,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "7acabe372ada"
   },
   {
@@ -1590,7 +2137,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "8e578eac1244"
   },
   {
@@ -1628,7 +2175,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "81bd40cd9eb5"
   },
   {
@@ -1666,7 +2213,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "582dbf87b169"
   },
   {
@@ -1704,7 +2251,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "60c3a2ba6389"
   },
   {
@@ -1742,7 +2289,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "b392ede1ec86"
   },
   {
@@ -1780,7 +2327,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "c6906247b141"
   },
   {
@@ -1818,7 +2365,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "59fd4694a0f6"
   },
   {
@@ -1856,7 +2403,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "61cbe27718ae"
   },
   {
@@ -1894,7 +2441,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
+   "lastSeen": "2026-10-07T13:36:56Z",
    "contentHash": "2b85ebefb57f"
   }
  ]
