@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T13:37:06Z",
+ "generated": "2026-10-10T12:30:14Z",
  "events": [
   {
    "id": "news:www-esa-int-esa-multimedia-images-2026-09-galaxies-in-a-cosm",
@@ -27,10 +27,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-10T12:30:14Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -63,10 +63,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-10T12:30:14Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -99,10 +99,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-10T12:30:14Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -135,10 +135,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-10T12:30:14Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -171,10 +171,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-10T12:30:14Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -207,10 +207,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-10T12:30:14Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -603,10 +603,10 @@
     }
    ],
    "confidence": 0.9,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-10T12:30:14Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -862,7 +862,7 @@
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-10T12:30:14Z",
    "contentHash": "9e8b929214da"
   },
   {
@@ -939,7 +939,7 @@
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
-   "lastSeen": "2026-10-07T13:36:57Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
    "contentHash": "728c6fd4b520"
   },
   {
@@ -1047,7 +1047,7 @@
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-10T12:30:14Z",
    "contentHash": "b1a2fe81f89d"
   },
   {
@@ -1227,7 +1227,7 @@
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-10T12:30:14Z",
    "contentHash": "04ca42be0550"
   },
   {
@@ -1263,8 +1263,152 @@
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
    "contentHash": "f74e662d7cae"
+  },
+  {
+   "id": "news:www-esa-int-science-exploration-space-science-mars-express-m",
+   "kind": "news",
+   "title": "Mars’s oddest cloud may be even odder than we thought",
+   "summary": "Scientists using the European Space Agency's Mars Express , in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious…",
+   "start": "2026-10-07T15:00:00Z",
+   "peak": "2026-10-07T15:00:00Z",
+   "end": "2026-10-14T15:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "ESA",
+   "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
+   "sources": [
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
+     "fetched": "2026-10-10T12:30:13Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:13Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
+   "contentHash": "1650c963aaa9"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-new-study-shows-that-earth-an",
+   "kind": "news",
+   "title": "New Study Shows That Earth and Mars Had Different Origins",
+   "summary": "A surprising discovery suggests that Mars and Earth formed through different processes, which could help scientists confirm whether exoplanets are habitable.",
+   "start": "2026-10-07T21:58:00Z",
+   "peak": "2026-10-07T21:58:00Z",
+   "end": "2026-10-14T21:58:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/new-study-shows-that-earth-and-mars-had-different-origins",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/new-study-shows-that-earth-and-mars-had-different-origins",
+     "fetched": "2026-10-10T12:30:14Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:14Z",
+   "lastSeen": "2026-10-10T12:30:14Z",
+   "contentHash": "3072a8d31029"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-nasa-selects-gimli-to-search-",
+   "kind": "news",
+   "title": "NASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site",
+   "summary": "NASA has selected a Planetary Science Institute-led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit.",
+   "start": "2026-10-08T00:30:16Z",
+   "peak": "2026-10-08T00:30:16Z",
+   "end": "2026-10-15T00:30:16Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
+     "fetched": "2026-10-10T12:30:14Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:14Z",
+   "lastSeen": "2026-10-10T12:30:14Z",
+   "contentHash": "649e410185fc"
+  },
+  {
+   "id": "news:earthsky-org-space-hera-mission-dart-asteroid-impact",
+   "kind": "news",
+   "title": "Hera mission hits the brakes to arrive at asteroid",
+   "summary": "The Hera mission will hit the brakes Thursday as it slows down to reach Dimorphos. This asteroid is the site of a human-made impact in 2022. The post Hera mission hits the brakes to arrive at asteroid first appeared on…",
+   "start": "2026-10-08T08:05:37Z",
+   "peak": "2026-10-08T08:05:37Z",
+   "end": "2026-10-15T08:05:37Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/hera-mission-dart-asteroid-impact/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/hera-mission-dart-asteroid-impact/",
+     "fetched": "2026-10-10T12:30:13Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:13Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
+   "contentHash": "c15b28e87837"
   },
   {
    "id": "shower:DRA:2026",
@@ -1299,8 +1443,152 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "b482c3ff64d5"
+  },
+  {
+   "id": "news:earthsky-org-space-black-holes-could-have-planets-supermassi",
+   "kind": "news",
+   "title": "Black holes could have planets, new simulations suggest",
+   "summary": "New simulations by 2 astrophysicists suggest that supermassive black holes could have planets orbiting them, much like planets orbit stars. The post Black holes could have planets, new simulations suggest first appeared…",
+   "start": "2026-10-08T12:00:23Z",
+   "peak": "2026-10-08T12:00:23Z",
+   "end": "2026-10-15T12:00:23Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/black-holes-could-have-planets-supermassive-black-holes-active-galactic-nucleus/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/black-holes-could-have-planets-supermassive-black-holes-active-galactic-nucleus/",
+     "fetched": "2026-10-10T12:30:13Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:13Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
+   "contentHash": "a941222baf23"
+  },
+  {
+   "id": "news:www-nasa-gov-news-release-nasa-briefing-to-highlight-contrib",
+   "kind": "news",
+   "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+   "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission.…",
+   "start": "2026-10-08T20:22:12Z",
+   "peak": "2026-10-08T20:22:12Z",
+   "end": "2026-10-15T20:22:12Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+     "fetched": "2026-10-10T12:30:13Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:13Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
+   "contentHash": "d6c7efc14052"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-webb-observes-extreme-debris-",
+   "kind": "news",
+   "title": "Webb Observes \"Extreme Debris Disks,\" Providing a Window into the Early Solar System",
+   "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, creating the Earth-Moon system. Using Webb, astronomers are studying young star systems…",
+   "start": "2026-10-09T02:25:49Z",
+   "peak": "2026-10-09T02:25:49Z",
+   "end": "2026-10-16T02:25:49Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/webb-observes-extreme-debris-disks-providing-a-window-into-the-early-solar-system",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/webb-observes-extreme-debris-disks-providing-a-window-into-the-early-solar-system",
+     "fetched": "2026-10-10T12:30:14Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:14Z",
+   "lastSeen": "2026-10-10T12:30:14Z",
+   "contentHash": "f5d67100537b"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-a-student-finds-three-galaxie",
+   "kind": "news",
+   "title": "A Student Finds Three Galaxies and Possibly Solves a Mystery",
+   "summary": "It's not too often that a high school student-turned undergraduate gets three galaxies named after him, especially ones that are breaking the rules of star formation. Julian Shapiro, an astrophysics student at the…",
+   "start": "2026-10-09T06:01:48Z",
+   "peak": "2026-10-09T06:01:48Z",
+   "end": "2026-10-16T06:01:48Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/a-student-finds-three-galaxies-and-possibly-solves-a-mystery",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/a-student-finds-three-galaxies-and-possibly-solves-a-mystery",
+     "fetched": "2026-10-10T12:30:14Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:14Z",
+   "lastSeen": "2026-10-10T12:30:14Z",
+   "contentHash": "8796dc72535d"
   },
   {
    "id": "aurora:2026-10-09",
@@ -1341,6 +1629,258 @@
    "contentHash": "175016ca9440"
   },
   {
+   "id": "news:earthsky-org-tonight-mercury-after-sunset-greatest-elongatio",
+   "kind": "news",
+   "title": "Mercury is farthest from the sunset on October 12",
+   "summary": "The innermost planet, Mercury, will be 25 degrees from the sun at greatest elongation at 10 UTC on October 12. Look for it shortly after sunset. The post Mercury is farthest from the sunset on October 12 first appeared…",
+   "start": "2026-10-09T11:00:34Z",
+   "peak": "2026-10-09T11:00:34Z",
+   "end": "2026-10-16T11:00:34Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/tonight/mercury-after-sunset-greatest-elongation-east/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/tonight/mercury-after-sunset-greatest-elongation-east/",
+     "fetched": "2026-10-10T12:30:13Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:13Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
+   "contentHash": "59fd64763cdb"
+  },
+  {
+   "id": "news:earthsky-org-todays-image-smile-mission-1st-aurora-footage",
+   "kind": "news",
+   "title": "Smile mission releases its stunning 1st aurora footage!",
+   "summary": "The Smile mission has shared its first footage of Earth's auroral oval at the North Pole, and it's a stunner! Read more about the mission here. The post Smile mission releases its stunning 1st aurora footage! first…",
+   "start": "2026-10-09T11:08:15Z",
+   "peak": "2026-10-09T11:08:15Z",
+   "end": "2026-10-16T11:08:15Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/todays-image/smile-mission-1st-aurora-footage/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/todays-image/smile-mission-1st-aurora-footage/",
+     "fetched": "2026-10-10T12:30:13Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:13Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
+   "contentHash": "07093e3e868b"
+  },
+  {
+   "id": "news:earthsky-org-space-ancient-rains-on-mars-formaldehyde-life-o",
+   "kind": "news",
+   "title": "Did formaldehyde on ancient Mars help kickstart life?",
+   "summary": "Formaldehyde in the ancient rains on Mars might have provided crucial chemical reactions needed for life to begin on the red planet billions of years ago. The post Did formaldehyde on ancient Mars help kickstart life?…",
+   "start": "2026-10-09T11:49:22Z",
+   "peak": "2026-10-09T11:49:22Z",
+   "end": "2026-10-16T11:49:22Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/ancient-rains-on-mars-formaldehyde-life-on-mars/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/ancient-rains-on-mars-formaldehyde-life-on-mars/",
+     "fetched": "2026-10-10T12:30:13Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:13Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
+   "contentHash": "c2f92a8c1d0d"
+  },
+  {
+   "id": "news:www-nasa-gov-image-article-cosmic-house-of-mirrors",
+   "kind": "news",
+   "title": "Cosmic House of Mirrors",
+   "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS…",
+   "start": "2026-10-09T13:57:24Z",
+   "peak": "2026-10-09T13:57:24Z",
+   "end": "2026-10-16T13:57:24Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+     "fetched": "2026-10-10T12:30:13Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:13Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
+   "contentHash": "a7da0e3f916e"
+  },
+  {
+   "id": "news:www-nasa-gov-centers-and-facilities-ames-nasa-demonstrates-n",
+   "kind": "news",
+   "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+   "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA…",
+   "start": "2026-10-09T16:59:24Z",
+   "peak": "2026-10-09T16:59:24Z",
+   "end": "2026-10-16T16:59:24Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+     "fetched": "2026-10-10T12:30:13Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:13Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
+   "contentHash": "16e8c7428768"
+  },
+  {
+   "id": "news:science-nasa-gov-image-article-apod-2026-october-10-lunar-fa",
+   "kind": "news",
+   "title": "APOD: 2026 October 10 – Lunar Farside",
+   "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph…",
+   "start": "2026-10-10T04:05:00Z",
+   "peak": "2026-10-10T04:05:00Z",
+   "end": "2026-10-17T04:05:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+     "fetched": "2026-10-10T12:30:13Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:13Z",
+   "lastSeen": "2026-10-10T12:30:13Z",
+   "contentHash": "44bc4bc0e325"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-stratospheric-balloon-telesco",
+   "kind": "news",
+   "title": "Stratospheric Balloon Telescope Peeks Above The Clouds At The Sun",
+   "summary": "There’s lots of things you can do with balloons. Children’s birthday parties come to mind, as do retirement parties. But you can also observe the Sun in unprecedented detail with one - or at least with a suite of…",
+   "start": "2026-10-10T11:30:55Z",
+   "peak": "2026-10-10T11:30:55Z",
+   "end": "2026-10-17T11:30:55Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/stratospheric-balloon-telescope-peeks-above-the-clouds-at-the-sun",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/stratospheric-balloon-telescope-peeks-above-the-clouds-at-the-sun",
+     "fetched": "2026-10-10T12:30:14Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-10T12:30:14Z",
+   "lastSeen": "2026-10-10T12:30:14Z",
+   "contentHash": "aece8f72841d"
+  },
+  {
    "id": "shower:STA:2026",
    "kind": "meteorShower",
    "title": "Southern Taurids peak",
@@ -1373,8 +1913,46 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "6bdbdd23bb00"
+  },
+  {
+   "id": "aurora:2026-10-12",
+   "kind": "aurora",
+   "title": "Aurora forecast: Kp 6 (G2)",
+   "summary": "NOAA forecasts a geomagnetic storm peaking around 03:00 UTC. Aurora possible from about 55° latitude and poleward (Scotland, Scandinavia, Canada). Look north from a dark spot after dusk; a phone camera on night mode sees it before your eyes do.",
+   "start": "2026-10-12T00:00:00Z",
+   "peak": "2026-10-12T03:00:00Z",
+   "end": "2026-10-12T09:00:00Z",
+   "dateOnly": false,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [
+    "sun"
+   ],
+   "sourceName": "NOAA SWPC",
+   "sourceUrl": "https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json",
+   "sources": [
+    {
+     "name": "NOAA SWPC",
+     "url": "https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json",
+     "fetched": "2026-10-10T12:30:12Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-10-10T12:30:12Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-10-10T12:30:12Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
+   "contentHash": "559b04c9256a"
   },
   {
    "id": "shower:ORI:2026",
@@ -1409,7 +1987,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "e68ff3957da2"
   },
   {
@@ -1445,7 +2023,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "01f4ab53992c"
   },
   {
@@ -1481,7 +2059,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "789d770e89e8"
   },
   {
@@ -1517,7 +2095,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "474d90f1b669"
   },
   {
@@ -1553,7 +2131,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "7be2a3a29f9b"
   },
   {
@@ -1589,7 +2167,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "f5c698cc5125"
   },
   {
@@ -1627,7 +2205,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "b955c261ae1a"
   },
   {
@@ -1663,7 +2241,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "ff23e04dffc1"
   },
   {
@@ -1699,7 +2277,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "15124d6969a0"
   },
   {
@@ -1735,7 +2313,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "e42f01f40700"
   },
   {
@@ -1773,7 +2351,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "e510e93abc91"
   },
   {
@@ -1809,7 +2387,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "b758b78a7d30"
   },
   {
@@ -1845,7 +2423,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "6362677ace10"
   },
   {
@@ -1881,7 +2459,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "e14453b278c6"
   },
   {
@@ -1917,7 +2495,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "0d4a18dd46c6"
   },
   {
@@ -1953,7 +2531,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "cb0e9ce3256c"
   },
   {
@@ -1989,7 +2567,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "656d99906122"
   },
   {
@@ -2025,7 +2603,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "0ff17d7468a4"
   },
   {
@@ -2061,7 +2639,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-10T12:30:11Z",
    "contentHash": "e1995c7b2db8"
   },
   {
@@ -2099,7 +2677,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "7acabe372ada"
   },
   {
@@ -2137,7 +2715,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "8e578eac1244"
   },
   {
@@ -2175,7 +2753,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "81bd40cd9eb5"
   },
   {
@@ -2213,7 +2791,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "582dbf87b169"
   },
   {
@@ -2251,7 +2829,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "60c3a2ba6389"
   },
   {
@@ -2289,7 +2867,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "b392ede1ec86"
   },
   {
@@ -2327,7 +2905,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "c6906247b141"
   },
   {
@@ -2365,7 +2943,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "59fd4694a0f6"
   },
   {
@@ -2403,7 +2981,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "61cbe27718ae"
   },
   {
@@ -2441,7 +3019,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-10T12:30:12Z",
    "contentHash": "2b85ebefb57f"
   }
  ]
