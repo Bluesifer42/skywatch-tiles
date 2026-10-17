@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T13:37:06Z",
+ "generated": "2026-10-17T20:35:30Z",
  "events": [
   {
    "id": "news:www-esa-int-esa-multimedia-images-2026-09-galaxies-in-a-cosm",
@@ -27,10 +27,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -63,10 +63,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -99,10 +99,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -135,10 +135,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -171,10 +171,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -207,10 +207,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -243,10 +243,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -279,10 +279,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -315,10 +315,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -351,10 +351,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -387,10 +387,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -423,10 +423,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -459,10 +459,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -495,10 +495,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -531,10 +531,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -567,10 +567,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -603,10 +603,10 @@
     }
    ],
    "confidence": 0.9,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -639,10 +639,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -675,10 +675,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -711,10 +711,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -747,10 +747,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -783,10 +783,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -819,10 +819,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -855,10 +855,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -891,10 +891,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -932,10 +932,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -968,10 +968,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1004,10 +1004,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1040,10 +1040,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1076,10 +1076,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1112,10 +1112,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "human",
-    "at": "2026-10-07T13:39:50Z",
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1148,10 +1148,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -1184,10 +1184,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1220,10 +1220,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1256,14 +1256,14 @@
     }
    ],
    "confidence": 0.7,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "human",
-    "at": "2026-10-07T13:39:50Z",
+    "at": "2026-10-17T20:35:30Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
    "contentHash": "f74e662d7cae"
   },
   {
@@ -1292,14 +1292,14 @@
     }
    ],
    "confidence": 0.9,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "pipeline",
-    "at": "2026-10-05T20:49:03Z",
+    "at": "2026-10-17T20:35:30Z",
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "b482c3ff64d5"
   },
   {
@@ -1330,10 +1330,10 @@
     }
    ],
    "confidence": 0.95,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "pipeline",
-    "at": "2026-10-07T13:36:56Z",
+    "at": "2026-10-17T20:35:30Z",
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1373,8 +1373,728 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "6bdbdd23bb00"
+  },
+  {
+   "id": "news:www-esa-int-science-exploration-space-science-mars-moon-land",
+   "kind": "news",
+   "title": "Mars moon lander set to launch on 19 October",
+   "summary": "The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the…",
+   "start": "2026-10-13T12:00:00Z",
+   "peak": "2026-10-13T12:00:00Z",
+   "end": "2026-10-20T12:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "ESA",
+   "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+   "sources": [
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "d0b7688603f8"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-the-perseverance-rover-reache",
+   "kind": "news",
+   "title": "The Perseverance Rover Reaches Another Milestone",
+   "summary": "NASA's Perseverance Rover has reached another milestone. It now holds the record for the longest distance travelled on another world, meaning Mars and Earth's Moon. It's all thanks the ingenuity behind AutoNav, it's…",
+   "start": "2026-10-14T19:14:26Z",
+   "peak": "2026-10-14T19:14:26Z",
+   "end": "2026-10-21T19:14:26Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/the-perseverance-rover-reaches-another-milestone",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/the-perseverance-rover-reaches-another-milestone",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "56b04a997d17"
+  },
+  {
+   "id": "news:earthsky-org-space-planetary-systems-2-distinct-families",
+   "kind": "news",
+   "title": "Planetary systems fall into 2 distinct families, astronomers say",
+   "summary": "Astronomers studying planetary systems in the Milky Way have found they can be sorted into 2 families. These families are largely determined by the host star. The post Planetary systems fall into 2 distinct families,…",
+   "start": "2026-10-15T11:17:00Z",
+   "peak": "2026-10-15T11:17:00Z",
+   "end": "2026-10-22T11:17:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/planetary-systems-2-distinct-families/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/planetary-systems-2-distinct-families/",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "2e503fb42fc4"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-spherex-just-took-the-fingerp",
+   "kind": "news",
+   "title": "SPHEREx Just Took the Fingerprints of Failed Stars Across Our Cosmic Neighborhood",
+   "summary": "Brown dwarfs are the black (or brown?) sheep of astronomy. They’re too big to be considered a traditional gas planet, but they are too small to have started nuclear fusion and made the full transition to star-hood. They…",
+   "start": "2026-10-15T13:08:24Z",
+   "peak": "2026-10-15T13:08:24Z",
+   "end": "2026-10-22T13:08:24Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/spherex-just-took-the-fingerprints-of-failed-stars-across-our-cosmic-neighborhood",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/spherex-just-took-the-fingerprints-of-failed-stars-across-our-cosmic-neighborhood",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "b1ec53b2cb29"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-orionid-taurid-meteors-haunt-",
+   "kind": "news",
+   "title": "Orionid, Taurid Meteors Haunt October Skies",
+   "summary": "Fall meteor season has begun. Late October not only sees dusk falling ever earlier as ghouls and goblins walk the Earth on Halloween, but it also sees the peak of two fine annual meteor showers kicking off Halloween…",
+   "start": "2026-10-15T14:33:00Z",
+   "peak": "2026-10-15T14:33:00Z",
+   "end": "2026-10-22T14:33:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/orionid-taurid-meteors-haunt-october-skies",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/orionid-taurid-meteors-haunt-october-skies",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "7f2860685911"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-host-stars-shape-their-planet",
+   "kind": "news",
+   "title": "Host Stars Shape Their Planetary Systems Into Two Families",
+   "summary": "New research draws a link between a host star and the characteristics of its planetary system. Higher mass stars create one family of systems, while lower mass stars create another. These results provide a new, more…",
+   "start": "2026-10-15T17:07:40Z",
+   "peak": "2026-10-15T17:07:40Z",
+   "end": "2026-10-22T17:07:40Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/host-stars-shape-their-planetary-systems-into-two-families",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/host-stars-shape-their-planetary-systems-into-two-families",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "22f4c7a8b808"
+  },
+  {
+   "id": "news:science-nasa-gov-earth-nasa-satellites-observe-historic-2026",
+   "kind": "news",
+   "title": "NASA Satellites Observe Historic 2026 El Niño",
+   "summary": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to…",
+   "start": "2026-10-15T17:59:22Z",
+   "peak": "2026-10-15T17:59:22Z",
+   "end": "2026-10-22T17:59:22Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
+     "fetched": "2026-10-17T20:35:29Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:29Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
+   "contentHash": "af87a23d0f23"
+  },
+  {
+   "id": "news:science-nasa-gov-directorates-smd-planetary-science-division",
+   "kind": "news",
+   "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+   "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring…",
+   "start": "2026-10-15T19:58:08Z",
+   "peak": "2026-10-15T19:58:08Z",
+   "end": "2026-10-22T19:58:08Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+     "fetched": "2026-10-17T20:35:29Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:29Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
+   "contentHash": "e2020787ea5b"
+  },
+  {
+   "id": "news:earthsky-org-constellations-constellation-cassiopeia-the-que",
+   "kind": "news",
+   "title": "Cassiopeia the Queen is overhead on autumn evenings",
+   "summary": "Spot the constellation Cassiopeia the Queen somewhere in the northern sky during much of the year, throughout much of the night. It's high overhead now. The post Cassiopeia the Queen is overhead on autumn evenings first…",
+   "start": "2026-10-16T09:33:00Z",
+   "peak": "2026-10-16T09:33:00Z",
+   "end": "2026-10-23T09:33:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/constellations/constellation-cassiopeia-the-queen-lady-of-the-chair-how-to-find-history-myth/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/constellations/constellation-cassiopeia-the-queen-lady-of-the-chair-how-to-find-history-myth/",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "ce6974b6181f"
+  },
+  {
+   "id": "news:earthsky-org-space-space-is-getting-crowded-low-earth-orbit-",
+   "kind": "news",
+   "title": "Space is getting crowded. Here’s the latest satellite report",
+   "summary": "ESA reports on the state of low-Earth orbit. The number of satellites in orbit is skyrocketing, along with the chance for collisions and on-ground casualties. The post Space is getting crowded. Here’s the latest…",
+   "start": "2026-10-16T11:16:00Z",
+   "peak": "2026-10-16T11:16:00Z",
+   "end": "2026-10-23T11:16:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/space-is-getting-crowded-low-earth-orbit-satellite-collision/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/space-is-getting-crowded-low-earth-orbit-satellite-collision/",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "1b0574070551"
+  },
+  {
+   "id": "news:earthsky-org-space-2nd-generation-planet-might-solve-an-old-",
+   "kind": "news",
+   "title": "2nd-generation planet: Was this world born around a dead star?",
+   "summary": "Astronomers might have found a new 2nd-generation planet orbiting a white dwarf star. It could also help answer a \"cold case\" mystery about the white dwarf. The post 2nd-generation planet: Was this world born around a…",
+   "start": "2026-10-16T11:25:21Z",
+   "peak": "2026-10-16T11:25:21Z",
+   "end": "2026-10-23T11:25:21Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/2nd-generation-planet-might-solve-an-old-hubble-mystery/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/2nd-generation-planet-might-solve-an-old-hubble-mystery/",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "04025b5b5aa0"
+  },
+  {
+   "id": "news:earthsky-org-human-world-no-more-leap-seconds-timekeeping-ch",
+   "kind": "news",
+   "title": "No more leap seconds! Timekeeping is officially changing",
+   "summary": "The world’s timekeepers announced on Thursday that leap seconds will no longer be added to clocks starting in May 2027. The post No more leap seconds! Timekeeping is officially changing first appeared on EarthSky .",
+   "start": "2026-10-16T11:32:00Z",
+   "peak": "2026-10-16T11:32:00Z",
+   "end": "2026-10-23T11:32:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/human-world/no-more-leap-seconds-timekeeping-change/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/human-world/no-more-leap-seconds-timekeeping-change/",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "f97630780185"
+  },
+  {
+   "id": "news:science-nasa-gov-missions-hubble-nasas-hubble-spies-spirals-",
+   "kind": "news",
+   "title": "NASA’s Hubble Spies Spiral’s Edge",
+   "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+   "start": "2026-10-16T12:42:08Z",
+   "peak": "2026-10-16T12:42:08Z",
+   "end": "2026-10-23T12:42:08Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+     "fetched": "2026-10-17T20:35:29Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:29Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
+   "contentHash": "5a9508230fa0"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-a-distant-supercluster-of-gal",
+   "kind": "news",
+   "title": "A Distant Supercluster of Galaxies Points To Self-Interacting Dark Matter",
+   "summary": "The El Gordo supercluster is unusually large given its distance. How could such a large galaxy cluster form so quickly? The answer could be that dark matter is self-interacting in an interesting two-state way.",
+   "start": "2026-10-16T14:21:42Z",
+   "peak": "2026-10-16T14:21:42Z",
+   "end": "2026-10-23T14:21:42Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/a-distant-supercluster-of-galaxies-points-to-self-interacting-dark-matter",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/a-distant-supercluster-of-galaxies-points-to-self-interacting-dark-matter",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "1f51d23935b0"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-the-flavor-of-neutrinos-could",
+   "kind": "news",
+   "title": "The Flavor of Neutrinos Could Determine How a Large Star Dies",
+   "summary": "Neutrinos come in three different flavors. A new study finds that neutrino flavor could play a significant role in whether a dying star becomes a supernova or collapses directly into a black hole.",
+   "start": "2026-10-16T16:00:15Z",
+   "peak": "2026-10-16T16:00:15Z",
+   "end": "2026-10-23T16:00:15Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/the-flavor-of-neutrinos-could-determine-how-a-large-star-dies",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/the-flavor-of-neutrinos-could-determine-how-a-large-star-dies",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "53635e881310"
+  },
+  {
+   "id": "news:earthsky-org-space-caves-on-the-moon-new-nasa-mission",
+   "kind": "news",
+   "title": "Caves on the moon are target of new NASA mission",
+   "summary": "NASA wants to search for caves on the moon. A new mission named GIMLI will land and examine a volcanic pit — the Marius Hills Pit — in the vast, dark lunar lava plain known as Oceanus Procellarum. The post Caves on the…",
+   "start": "2026-10-16T17:00:00Z",
+   "peak": "2026-10-16T17:00:00Z",
+   "end": "2026-10-23T17:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/caves-on-the-moon-new-nasa-mission/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/caves-on-the-moon-new-nasa-mission/",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "f4a42c330f7b"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-in-the-search-for-exoplanets-",
+   "kind": "news",
+   "title": "In the Search for Exoplanets, Some Failures Are A Success",
+   "summary": "Astronomers used decades of archival data and new radial velocity measurements to search for exoplanets around a neaby binary star, 70 Oph AB. They didn't find any, which can seem like a failure. But in this case, their…",
+   "start": "2026-10-16T19:30:07Z",
+   "peak": "2026-10-16T19:30:07Z",
+   "end": "2026-10-23T19:30:07Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/in-the-search-for-exoplanets-some-failures-are-a-success",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/in-the-search-for-exoplanets-some-failures-are-a-success",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "2010e55d358c"
+  },
+  {
+   "id": "news:www-nasa-gov-news-release-nasa-names-stephen-cash-marshall-s",
+   "kind": "news",
+   "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+   "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive,…",
+   "start": "2026-10-16T20:14:39Z",
+   "peak": "2026-10-16T20:14:39Z",
+   "end": "2026-10-23T20:14:39Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+     "fetched": "2026-10-17T20:35:29Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:29Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
+   "contentHash": "e62a4fceeaf3"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-enigmatic-mercury-will-remain",
+   "kind": "news",
+   "title": "Enigmatic Mercury Will Remain A Puzzle Until Someone Sends A Lander",
+   "summary": "Despite the upcoming Bepi Colombo visit to Mercury, we need a lander mission to fully understand our solar system’s innermost planet.",
+   "start": "2026-10-17T07:47:00Z",
+   "peak": "2026-10-17T07:47:00Z",
+   "end": "2026-10-24T07:47:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "4f5e6c5aabc5"
+  },
+  {
+   "id": "news:earthsky-org-astronomy-essentials-inferior-conjunction-venus",
+   "kind": "news",
+   "title": "Inferior conjunction — Venus! October 23-24, 2026",
+   "summary": "Venus reaches inferior conjunction soon. It'll pass between Earth and the sun at 4 UTC on October 24. Then Venus emerges in the morning sky. The post Inferior conjunction — Venus! October 23-24, 2026 first appeared on…",
+   "start": "2026-10-17T11:00:12Z",
+   "peak": "2026-10-17T11:00:12Z",
+   "end": "2026-10-24T11:00:12Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/astronomy-essentials/inferior-conjunction-venus-between-sun-and-earth/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/astronomy-essentials/inferior-conjunction-venus-between-sun-and-earth/",
+     "fetched": "2026-10-17T20:35:30Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-17T20:35:30Z",
+   "lastSeen": "2026-10-17T20:35:30Z",
+   "contentHash": "3b452b0cbb84"
   },
   {
    "id": "shower:ORI:2026",
@@ -1409,7 +2129,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "e68ff3957da2"
   },
   {
@@ -1445,7 +2165,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "01f4ab53992c"
   },
   {
@@ -1481,7 +2201,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "789d770e89e8"
   },
   {
@@ -1517,7 +2237,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "474d90f1b669"
   },
   {
@@ -1553,7 +2273,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "7be2a3a29f9b"
   },
   {
@@ -1589,7 +2309,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "f5c698cc5125"
   },
   {
@@ -1627,7 +2347,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "b955c261ae1a"
   },
   {
@@ -1663,7 +2383,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "ff23e04dffc1"
   },
   {
@@ -1699,7 +2419,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "15124d6969a0"
   },
   {
@@ -1735,7 +2455,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "e42f01f40700"
   },
   {
@@ -1773,7 +2493,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "e510e93abc91"
   },
   {
@@ -1809,7 +2529,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "b758b78a7d30"
   },
   {
@@ -1845,7 +2565,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "6362677ace10"
   },
   {
@@ -1881,7 +2601,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "e14453b278c6"
   },
   {
@@ -1917,7 +2637,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "0d4a18dd46c6"
   },
   {
@@ -1953,7 +2673,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "cb0e9ce3256c"
   },
   {
@@ -1989,7 +2709,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "656d99906122"
   },
   {
@@ -2025,7 +2745,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "0ff17d7468a4"
   },
   {
@@ -2061,7 +2781,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-17T20:35:27Z",
    "contentHash": "e1995c7b2db8"
   },
   {
@@ -2099,7 +2819,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "7acabe372ada"
   },
   {
@@ -2137,7 +2857,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "8e578eac1244"
   },
   {
@@ -2175,7 +2895,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "81bd40cd9eb5"
   },
   {
@@ -2213,7 +2933,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "582dbf87b169"
   },
   {
@@ -2251,7 +2971,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "60c3a2ba6389"
   },
   {
@@ -2289,7 +3009,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "b392ede1ec86"
   },
   {
@@ -2327,7 +3047,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "c6906247b141"
   },
   {
@@ -2365,7 +3085,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "59fd4694a0f6"
   },
   {
@@ -2403,7 +3123,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "61cbe27718ae"
   },
   {
@@ -2441,7 +3161,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-17T20:35:29Z",
    "contentHash": "2b85ebefb57f"
   }
  ]
