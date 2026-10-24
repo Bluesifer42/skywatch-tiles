@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T13:37:06Z",
+ "generated": "2026-10-24T10:56:55Z",
  "events": [
   {
    "id": "news:www-esa-int-esa-multimedia-images-2026-09-galaxies-in-a-cosm",
@@ -27,10 +27,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -63,10 +63,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -99,10 +99,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -135,10 +135,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -171,10 +171,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -207,10 +207,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -243,10 +243,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -279,10 +279,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -315,10 +315,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -351,10 +351,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -387,10 +387,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -423,10 +423,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -459,10 +459,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -495,10 +495,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -531,10 +531,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -567,10 +567,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -603,10 +603,10 @@
     }
    ],
    "confidence": 0.9,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -639,10 +639,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -675,10 +675,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -711,10 +711,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -747,10 +747,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -783,10 +783,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -819,10 +819,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -855,10 +855,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -891,10 +891,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -932,10 +932,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -968,10 +968,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1004,10 +1004,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1040,10 +1040,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1076,10 +1076,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1112,10 +1112,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "human",
-    "at": "2026-10-07T13:39:50Z",
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1148,10 +1148,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -1184,10 +1184,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1220,10 +1220,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1256,14 +1256,14 @@
     }
    ],
    "confidence": 0.7,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "human",
-    "at": "2026-10-07T13:39:50Z",
+    "at": "2026-10-24T10:56:55Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
    "contentHash": "f74e662d7cae"
   },
   {
@@ -1292,10 +1292,10 @@
     }
    ],
    "confidence": 0.9,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "pipeline",
-    "at": "2026-10-05T20:49:03Z",
+    "at": "2026-10-24T10:56:55Z",
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
@@ -1330,10 +1330,10 @@
     }
    ],
    "confidence": 0.95,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "pipeline",
-    "at": "2026-10-07T13:36:56Z",
+    "at": "2026-10-24T10:56:55Z",
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1373,8 +1373,152 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "6bdbdd23bb00"
+  },
+  {
+   "id": "news:www-esa-int-science-exploration-space-science-euclid-euclid-",
+   "kind": "news",
+   "title": "Euclid discovers new comet",
+   "summary": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
+   "start": "2026-10-19T12:00:00Z",
+   "peak": "2026-10-19T12:00:00Z",
+   "end": "2026-10-26T12:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "ESA",
+   "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+   "sources": [
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "6b984a076819"
+  },
+  {
+   "id": "news:www-esa-int-esa-multimedia-images-2026-10-mmx-lifts-off-to-m",
+   "kind": "news",
+   "title": "MMX lifts off to Mars’s moon Phobos",
+   "summary": "Image: MMX lifts off to Mars’s moon Phobos",
+   "start": "2026-10-20T07:00:00Z",
+   "peak": "2026-10-20T07:00:00Z",
+   "end": "2026-10-27T07:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "ESA",
+   "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+   "sources": [
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "00434333b205"
+  },
+  {
+   "id": "news:earthsky-org-space-accidental-comet-discovery-euclid-c-2026-",
+   "kind": "news",
+   "title": "Euclid was mapping the universe. Then it found a comet",
+   "summary": "The Euclid space telescope made an accidental comet discovery as it searched the universe for evidence of dark matter and dark energy. The post Euclid was mapping the universe. Then it found a comet first appeared on…",
+   "start": "2026-10-21T11:25:00Z",
+   "peak": "2026-10-21T11:25:00Z",
+   "end": "2026-10-28T11:25:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/accidental-comet-discovery-euclid-c-2026-s1/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/accidental-comet-discovery-euclid-c-2026-s1/",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "c604e1854d80"
+  },
+  {
+   "id": "news:earthsky-org-space-surprising-colors-of-white-dwarf-stars-re",
+   "kind": "news",
+   "title": "Surprising colors of white dwarf stars revealed for 1st time",
+   "summary": "Astronomers in the U.K. have found that the true colors of white dwarf stars can vary greatly. They even found the 1st known green star. The post Surprising colors of white dwarf stars revealed for 1st time first…",
+   "start": "2026-10-21T11:59:34Z",
+   "peak": "2026-10-21T11:59:34Z",
+   "end": "2026-10-28T11:59:34Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/surprising-colors-of-white-dwarf-stars-revealed-for-1st-time/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/surprising-colors-of-white-dwarf-stars-revealed-for-1st-time/",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "acd6edaad6e6"
   },
   {
    "id": "shower:ORI:2026",
@@ -1409,8 +1553,584 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "e68ff3957da2"
+  },
+  {
+   "id": "news:www-esa-int-esa-multimedia-images-2026-10-stars-brewing-in-a",
+   "kind": "news",
+   "title": "Stars brewing in a nebulous cauldron",
+   "summary": "Image: Stars brewing in a nebulous cauldron",
+   "start": "2026-10-22T08:00:00Z",
+   "peak": "2026-10-22T08:00:00Z",
+   "end": "2026-10-29T08:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "ESA",
+   "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+   "sources": [
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "296e64e42b16"
+  },
+  {
+   "id": "news:earthsky-org-constellations-cassiopeia-and-perseus-in-northe",
+   "kind": "news",
+   "title": "Cassiopeia and Perseus on October evenings",
+   "summary": "Cassiopeia and Perseus are neighbors in the autumn sky. Use Cassiopeia's distinctive W or M shape to locate the dimmer Perseus on autumn and winter evenings. The post Cassiopeia and Perseus on October evenings first…",
+   "start": "2026-10-22T09:06:00Z",
+   "peak": "2026-10-22T09:06:00Z",
+   "end": "2026-10-29T09:06:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/constellations/cassiopeia-and-perseus-in-northeast-on-october-evenings/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/constellations/cassiopeia-and-perseus-in-northeast-on-october-evenings/",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "798e69f2a0be"
+  },
+  {
+   "id": "news:earthsky-org-space-lucy-mission-to-trojan-asteroids-5-years-",
+   "kind": "news",
+   "title": "Lucy mission to Trojan asteroids: 5 years of discoveries",
+   "summary": "NASA’s Lucy mission is now less than a year from reaching the Trojan asteroids near Jupiter. And it has already made some exciting discoveries along the way. The post Lucy mission to Trojan asteroids: 5 years of…",
+   "start": "2026-10-22T09:15:00Z",
+   "peak": "2026-10-22T09:15:00Z",
+   "end": "2026-10-29T09:15:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/lucy-mission-to-trojan-asteroids-5-years-of-discoveries/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/lucy-mission-to-trojan-asteroids-5-years-of-discoveries/",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "0712994d9cb7"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-supernova-explosions-first-ai",
+   "kind": "news",
+   "title": "Supernova Explosions First Aided, Then Later Impeded, the Epoch of Reionization",
+   "summary": "The Epoch of Reionization is when radiation from early galaxies and their stars reionized neutral hydrogen and let light travel freely through the cosmos. Some research shows that supernovae helped the process. But new…",
+   "start": "2026-10-22T14:53:56Z",
+   "peak": "2026-10-22T14:53:56Z",
+   "end": "2026-10-29T14:53:56Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/supernova-explosions-first-aided-then-later-impeded-the-epoch-of-reionization",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/supernova-explosions-first-aided-then-later-impeded-the-epoch-of-reionization",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "740c39023a03"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-autonomous-triangular-modules",
+   "kind": "news",
+   "title": "Autonomous Triangular Modules Could Build Tomorrow’s Mega-Observatories",
+   "summary": "Private companies are getting better and better at launching more and more mass into space with larger and larger rockets. But, there is still a major constraint on the size of objects we can get into orbit - fairing…",
+   "start": "2026-10-22T15:18:23Z",
+   "peak": "2026-10-22T15:18:23Z",
+   "end": "2026-10-29T15:18:23Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/autonomous-triangular-modules-could-build-tomorrows-mega-observatories",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/autonomous-triangular-modules-could-build-tomorrows-mega-observatories",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "fe9f9083ffbf"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-from-dusk-towards-dawn-venus-",
+   "kind": "news",
+   "title": "From Dusk, Towards Dawn: Venus Slides Past the Sun This Weekend",
+   "summary": "Where have all the planets gone? Late October 2026 sees a decided dearth of planets in the dusk sky, with only bashful Mercury receding from view, and Saturn fresh off of opposition. Venus, the former lucida of the…",
+   "start": "2026-10-22T15:30:00Z",
+   "peak": "2026-10-22T15:30:00Z",
+   "end": "2026-10-29T15:30:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/from-dusk-towards-dawn-venus-slides-past-the-sun-this-weekend",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/from-dusk-towards-dawn-venus-slides-past-the-sun-this-weekend",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "c0bfe706587c"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-even-the-rubins-test-camera-p",
+   "kind": "news",
+   "title": "Even the Rubin's Test Camera Produces Stunning Images",
+   "summary": "The Vera Rubin Observatory's Commissioning Camera operated for about 7 weeks in 2024, before the observatory released its well-known first look images. It's an engineering camera, and its job was to test the VRO's…",
+   "start": "2026-10-22T21:04:01Z",
+   "peak": "2026-10-22T21:04:01Z",
+   "end": "2026-10-29T21:04:01Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/even-the-rubins-test-camera-produces-stunning-images",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/even-the-rubins-test-camera-produces-stunning-images",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "9220a3a02af5"
+  },
+  {
+   "id": "news:www-nasa-gov-image-article-spirals-edge",
+   "kind": "news",
+   "title": "Spiral’s Edge",
+   "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble…",
+   "start": "2026-10-22T21:35:38Z",
+   "peak": "2026-10-22T21:35:38Z",
+   "end": "2026-10-29T21:35:38Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/image-article/spirals-edge/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/image-article/spirals-edge/",
+     "fetched": "2026-10-24T10:56:53Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:53Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
+   "contentHash": "59dd6ca09b28"
+  },
+  {
+   "id": "news:earthsky-org-astronomy-essentials-olbers-paradox-asks-why-is",
+   "kind": "news",
+   "title": "Olbers’ paradox asks ‘Why is the night sky dark?’",
+   "summary": "Olbers' paradox asks why is space dark if the universe is filled with stars. The answer has to do with traveling light and red-shifting colors. The post Olbers’ paradox asks ‘Why is the night sky dark?’ first appeared…",
+   "start": "2026-10-23T10:10:00Z",
+   "peak": "2026-10-23T10:10:00Z",
+   "end": "2026-10-30T10:10:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/astronomy-essentials/olbers-paradox-asks-why-is-the-night-sky-dark/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/astronomy-essentials/olbers-paradox-asks-why-is-the-night-sky-dark/",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "140cb086b865"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-jwst-reveals-a-lopsided-alien",
+   "kind": "news",
+   "title": "JWST Reveals a Lopsided Alien World with Blistering Evening Winds",
+   "summary": "Typically, when we think of exoplanets, we think of neat spheres floating directly in front of their star, which acts as a giant spotlight. From our vantage point, they would look more like two perfect two dimensional…",
+   "start": "2026-10-23T10:54:33Z",
+   "peak": "2026-10-23T10:54:33Z",
+   "end": "2026-10-30T10:54:33Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "ae3f606ef9bb"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-the-largest-canyon-in-the-sol",
+   "kind": "news",
+   "title": "The Largest Canyon in the Solar System is Still Tectonically Active",
+   "summary": "Scientists at Imperial College London and Columbia University have found that the largest canyon system in the solar system is still active and shaping Mars today, billions of years after it first formed.",
+   "start": "2026-10-23T21:09:09Z",
+   "peak": "2026-10-23T21:09:09Z",
+   "end": "2026-10-30T21:09:09Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/the-largest-canyon-in-the-solar-system-is-still-tectonically-active",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/the-largest-canyon-in-the-solar-system-is-still-tectonically-active",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "1280ecebee05"
+  },
+  {
+   "id": "news:science-nasa-gov-missions-swift-nasas-swift-mission-ends",
+   "kind": "news",
+   "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+   "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents…",
+   "start": "2026-10-23T21:51:19Z",
+   "peak": "2026-10-23T21:51:19Z",
+   "end": "2026-10-30T21:51:19Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+     "fetched": "2026-10-24T10:56:53Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:53Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
+   "contentHash": "4e2675df7ca2"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-27-exoplanet-targets-for-the-",
+   "kind": "news",
+   "title": "27 Exoplanet Targets for the World's First Private Space Telescope",
+   "summary": "Get ready for the age of private space telescopes. The Lazuli Space Telescope will launch in a few years and part of its mission is to observe exoplanets. New research presents a list of 27 exoplanet targets, some of…",
+   "start": "2026-10-23T22:33:37Z",
+   "peak": "2026-10-23T22:33:37Z",
+   "end": "2026-10-30T22:33:37Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/27-exoplanet-targets-for-the-worlds-first-private-space-telescope",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/27-exoplanet-targets-for-the-worlds-first-private-space-telescope",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "e0a98fbebee2"
+  },
+  {
+   "id": "news:www-nasa-gov-missions-artemis-nasas-artemis-iii-mission-to-t",
+   "kind": "news",
+   "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+   "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik,…",
+   "start": "2026-10-23T22:37:53Z",
+   "peak": "2026-10-23T22:37:53Z",
+   "end": "2026-10-30T22:37:53Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+     "fetched": "2026-10-24T10:56:53Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:53Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
+   "contentHash": "daf0910d925e"
+  },
+  {
+   "id": "news:www-nasa-gov-missions-artemis-nasa-partners-accelerate-lande",
+   "kind": "news",
+   "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+   "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the…",
+   "start": "2026-10-23T22:39:39Z",
+   "peak": "2026-10-23T22:39:39Z",
+   "end": "2026-10-30T22:39:39Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+     "fetched": "2026-10-24T10:56:53Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:53Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
+   "contentHash": "e1f19f6e67ff"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-white-dwarfs-are-actuallyyell",
+   "kind": "news",
+   "title": "White Dwarfs Are Actually…Yellow, Green, Pink, and Purple?",
+   "summary": "The universe hosts a myriad of star types, including supergiants, giants, main sequence, red dwarfs, brown dwarfs, white dwarfs, and neutron stars. What makes these stars stand out are just their sizes, but their…",
+   "start": "2026-10-24T01:32:55Z",
+   "peak": "2026-10-24T01:32:55Z",
+   "end": "2026-10-31T01:32:55Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/white-dwarfs-are-actuallyyellow-green-pink-and-purple",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/white-dwarfs-are-actuallyyellow-green-pink-and-purple",
+     "fetched": "2026-10-24T10:56:54Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-24T10:56:54Z",
+   "lastSeen": "2026-10-24T10:56:54Z",
+   "contentHash": "2efef770aba4"
   },
   {
    "id": "shower:NTA:2026",
@@ -1445,7 +2165,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "01f4ab53992c"
   },
   {
@@ -1481,7 +2201,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "789d770e89e8"
   },
   {
@@ -1517,7 +2237,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "474d90f1b669"
   },
   {
@@ -1553,7 +2273,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "7be2a3a29f9b"
   },
   {
@@ -1589,7 +2309,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "f5c698cc5125"
   },
   {
@@ -1627,7 +2347,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "b955c261ae1a"
   },
   {
@@ -1663,7 +2383,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "ff23e04dffc1"
   },
   {
@@ -1699,7 +2419,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "15124d6969a0"
   },
   {
@@ -1735,7 +2455,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "e42f01f40700"
   },
   {
@@ -1773,7 +2493,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "e510e93abc91"
   },
   {
@@ -1809,7 +2529,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "b758b78a7d30"
   },
   {
@@ -1845,7 +2565,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "6362677ace10"
   },
   {
@@ -1881,7 +2601,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "e14453b278c6"
   },
   {
@@ -1917,7 +2637,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "0d4a18dd46c6"
   },
   {
@@ -1953,7 +2673,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "cb0e9ce3256c"
   },
   {
@@ -1989,7 +2709,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "656d99906122"
   },
   {
@@ -2025,7 +2745,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "0ff17d7468a4"
   },
   {
@@ -2061,7 +2781,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-24T10:56:52Z",
    "contentHash": "e1995c7b2db8"
   },
   {
@@ -2099,7 +2819,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "7acabe372ada"
   },
   {
@@ -2137,7 +2857,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "8e578eac1244"
   },
   {
@@ -2175,7 +2895,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "81bd40cd9eb5"
   },
   {
@@ -2213,7 +2933,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "582dbf87b169"
   },
   {
@@ -2251,7 +2971,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "60c3a2ba6389"
   },
   {
@@ -2289,7 +3009,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "b392ede1ec86"
   },
   {
@@ -2327,7 +3047,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "c6906247b141"
   },
   {
@@ -2365,7 +3085,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "59fd4694a0f6"
   },
   {
@@ -2403,7 +3123,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "61cbe27718ae"
   },
   {
@@ -2441,7 +3161,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-24T10:56:53Z",
    "contentHash": "2b85ebefb57f"
   }
  ]
