@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T13:37:06Z",
+ "generated": "2026-10-31T21:31:34Z",
  "events": [
   {
    "id": "news:www-esa-int-esa-multimedia-images-2026-09-galaxies-in-a-cosm",
@@ -27,10 +27,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -63,10 +63,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -99,10 +99,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -135,10 +135,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -171,10 +171,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -207,10 +207,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -243,10 +243,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -279,10 +279,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -315,10 +315,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -351,10 +351,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -387,10 +387,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -423,10 +423,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -459,10 +459,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -495,10 +495,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -531,10 +531,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -567,10 +567,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -603,10 +603,10 @@
     }
    ],
    "confidence": 0.9,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -639,10 +639,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -675,10 +675,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -711,10 +711,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -747,10 +747,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -783,10 +783,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -819,10 +819,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -855,10 +855,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -891,10 +891,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -932,10 +932,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -968,10 +968,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1004,10 +1004,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1040,10 +1040,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1076,10 +1076,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1112,51 +1112,15 @@
     }
    ],
    "confidence": 0.7,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "human",
-    "at": "2026-10-07T13:39:50Z",
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
    "lastSeen": "2026-10-07T13:36:58Z",
    "contentHash": "dcfdee1be5f8"
-  },
-  {
-   "id": "news:earthsky-org-sun-sun-news-activity-solar-flare-cme-aurora-up",
-   "kind": "news",
-   "title": "Sun news: Sun-stuff headed our way, auroras to come?",
-   "summary": "Sun news, October 7, 2026: Sun-stuff from yesterday's M flares is heading to Earth. It's due to arrive on October 9, and could trigger auroras. The post Sun news: Sun-stuff headed our way, auroras to come? first…",
-   "start": "2026-10-07T09:00:53Z",
-   "peak": "2026-10-07T09:00:53Z",
-   "end": "2026-10-14T09:00:53Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "556a269c4f91"
   },
   {
    "id": "news:earthsky-org-todays-image-moon-and-jupiter-pics-oct-6-2026",
@@ -1184,10 +1148,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1220,10 +1184,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1256,14 +1220,14 @@
     }
    ],
    "confidence": 0.7,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "human",
-    "at": "2026-10-07T13:39:50Z",
+    "at": "2026-10-31T21:31:34Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "f74e662d7cae"
   },
   {
@@ -1292,10 +1256,10 @@
     }
    ],
    "confidence": 0.9,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "pipeline",
-    "at": "2026-10-05T20:49:03Z",
+    "at": "2026-10-31T21:31:34Z",
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
@@ -1330,10 +1294,10 @@
     }
    ],
    "confidence": 0.95,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "pipeline",
-    "at": "2026-10-07T13:36:56Z",
+    "at": "2026-10-31T21:31:34Z",
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1373,7 +1337,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "6bdbdd23bb00"
   },
   {
@@ -1409,8 +1373,728 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "e68ff3957da2"
+  },
+  {
+   "id": "news:earthsky-org-space-is-this-our-solar-systems-future-white-dw",
+   "kind": "news",
+   "title": "Is this our solar system’s future? Scientists spot disk around dead star",
+   "summary": "Researchers have discovered a white dwarf surrounded by a debris disk with 2 separate rings. It offers a possible glimpse of our solar system's future. The post Is this our solar system’s future? Scientists spot disk…",
+   "start": "2026-10-29T11:50:00Z",
+   "peak": "2026-10-29T11:50:00Z",
+   "end": "2026-11-05T11:50:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/is-this-our-solar-systems-future-white-dwarf-debris-disks/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/is-this-our-solar-systems-future-white-dwarf-debris-disks/",
+     "fetched": "2026-10-31T21:31:20Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:20Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "788a04940790"
+  },
+  {
+   "id": "news:www-esa-int-science-exploration-space-science-webb-ghostly-c",
+   "kind": "news",
+   "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
+   "summary": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from…",
+   "start": "2026-10-29T14:00:00Z",
+   "peak": "2026-10-29T14:00:00Z",
+   "end": "2026-11-05T14:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "ESA",
+   "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
+   "sources": [
+    {
+     "name": "ESA",
+     "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
+     "fetched": "2026-10-31T21:31:20Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:20Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "362d31701736"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-its-a-ghost-no-its-a-stellar-",
+   "kind": "news",
+   "title": "It's a Ghost! No, It's a Stellar Crèche!",
+   "summary": "Astronomers using the Chandra X-ray Observatory (CXO), the James Webb Space Telescope (JWST) zeroed in on a wispy-looking region of the Carina Nebula and found a ghostly looking cloud seemingly floating in isolation…",
+   "start": "2026-10-29T23:25:37Z",
+   "peak": "2026-10-29T23:25:37Z",
+   "end": "2026-11-05T23:25:37Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche",
+     "fetched": "2026-10-31T21:31:21Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:21Z",
+   "lastSeen": "2026-10-31T21:31:21Z",
+   "contentHash": "ed6f3ffaf2c0"
+  },
+  {
+   "id": "news:science-nasa-gov-photojournal-slice-of-martian-meteorite-teg",
+   "kind": "news",
+   "title": "Slice of Martian Meteorite Teghaza 001",
+   "summary": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map,…",
+   "start": "2026-10-29T23:32:35Z",
+   "peak": "2026-10-29T23:32:35Z",
+   "end": "2026-11-05T23:32:35Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
+     "fetched": "2026-10-31T21:31:20Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:20Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "ea58c584323f"
+  },
+  {
+   "id": "news:science-nasa-gov-photojournal-map-showing-potential-origins-",
+   "kind": "news",
+   "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+   "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure…",
+   "start": "2026-10-30T00:07:39Z",
+   "peak": "2026-10-30T00:07:39Z",
+   "end": "2026-11-06T00:07:39Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+     "fetched": "2026-10-31T21:31:20Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:20Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "b6dd6d0f1c9f"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-how-you-squeeze-planetary-min",
+   "kind": "news",
+   "title": "How You Squeeze Planetary Minerals Changes Everything",
+   "summary": "Studying the interiors of planets is essential for understanding planetary formation, evolution, and their ability to potentially host life as we know it. To accomplish this, researchers use a combination of Earth as an…",
+   "start": "2026-10-30T02:28:22Z",
+   "peak": "2026-10-30T02:28:22Z",
+   "end": "2026-11-06T02:28:22Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/how-you-squeeze-planetary-minerals-changes-everything",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/how-you-squeeze-planetary-minerals-changes-everything",
+     "fetched": "2026-10-31T21:31:21Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:21Z",
+   "lastSeen": "2026-10-31T21:31:21Z",
+   "contentHash": "8f34261a3bb3"
+  },
+  {
+   "id": "news:earthsky-org-todays-image-witch-head-nebula-orion",
+   "kind": "news",
+   "title": "The Witch Head Nebula rises near Orion on Halloween",
+   "summary": "The Witch Head Nebula rises near the star Rigel in Orion on Halloween night, but it's too faint to see without a large telescope. It's perfect sight for Halloween. The post The Witch Head Nebula rises near Orion on…",
+   "start": "2026-10-30T08:00:50Z",
+   "peak": "2026-10-30T08:00:50Z",
+   "end": "2026-11-06T08:00:50Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/todays-image/witch-head-nebula-orion/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/todays-image/witch-head-nebula-orion/",
+     "fetched": "2026-10-31T21:31:20Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:20Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "d6098f107622"
+  },
+  {
+   "id": "news:science-nasa-gov-solar-system-skywatching-night-sky-network-",
+   "kind": "news",
+   "title": "November’s Night Sky Notes: Light-Day Away",
+   "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune.…",
+   "start": "2026-10-30T10:00:00Z",
+   "peak": "2026-10-30T10:00:00Z",
+   "end": "2026-11-06T10:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+     "fetched": "2026-10-31T21:31:20Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:20Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "bd4e4cbdad18"
+  },
+  {
+   "id": "news:earthsky-org-space-halloween-fireballs-airburst-2032-or-2036",
+   "kind": "news",
+   "title": "Could the Taurid meteors bring a risk of airbursts in 2026?",
+   "summary": "A researcher says the Taurid meteor shower could bring an increased risk of an airburst in 2026. But these Halloween fireballs are based on 2 big IFs. The post Could the Taurid meteors bring a risk of airbursts in 2026?…",
+   "start": "2026-10-30T11:18:00Z",
+   "peak": "2026-10-30T11:18:00Z",
+   "end": "2026-11-06T11:18:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/halloween-fireballs-airburst-2032-or-2036-taurid-fireballs/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/halloween-fireballs-airburst-2032-or-2036-taurid-fireballs/",
+     "fetched": "2026-10-31T21:31:20Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:20Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "14862410273c"
+  },
+  {
+   "id": "news:earthsky-org-space-new-dwarf-planet-candidate-ed138",
+   "kind": "news",
+   "title": "New dwarf planet discovered by Rubin?",
+   "summary": "Astronomers using the Rubin Observatory have discovered a new dwarf planet candidate. It lies just beyond the orbit of Pluto. The post New dwarf planet discovered by Rubin? first appeared on EarthSky .",
+   "start": "2026-10-30T11:43:00Z",
+   "peak": "2026-10-30T11:43:00Z",
+   "end": "2026-11-06T11:43:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/new-dwarf-planet-candidate-ed138/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/new-dwarf-planet-candidate-ed138/",
+     "fetched": "2026-10-31T21:31:20Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:20Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "a0f856af10ac"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-earths-impenetrable-space-rad",
+   "kind": "news",
+   "title": "Earth’s “Impenetrable” Space Radiation Shield Was Just Breached From Within",
+   "summary": "Remember the big solar storm back in May 2024? The one that caused auroras as far south as Florida and Mexico? Scientists are still parsing out the impacts that storm had on the local environment, and a new paper…",
+   "start": "2026-10-30T12:34:00Z",
+   "peak": "2026-10-30T12:34:00Z",
+   "end": "2026-11-06T12:34:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/earths-impenetrable-space-radiation-shield-was-just-breached-from-within",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/earths-impenetrable-space-radiation-shield-was-just-breached-from-within",
+     "fetched": "2026-10-31T21:31:21Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:21Z",
+   "lastSeen": "2026-10-31T21:31:21Z",
+   "contentHash": "797b7e48c81c"
+  },
+  {
+   "id": "news:science-nasa-gov-missions-hubble-nasa-explores-potential-com",
+   "kind": "news",
+   "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+   "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+   "start": "2026-10-30T14:51:21Z",
+   "peak": "2026-10-30T14:51:21Z",
+   "end": "2026-11-06T14:51:21Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+     "fetched": "2026-10-31T21:31:20Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:20Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "98d02f568d87"
+  },
+  {
+   "id": "news:www-nasa-gov-image-article-nasas-james-webb-space-telescope-",
+   "kind": "news",
+   "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+   "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely…",
+   "start": "2026-10-30T15:56:26Z",
+   "peak": "2026-10-30T15:56:26Z",
+   "end": "2026-11-06T15:56:26Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+     "fetched": "2026-10-31T21:31:20Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:20Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "fcd3bbfd78ac"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-this-gamma-ray-burst-wasnt-di",
+   "kind": "news",
+   "title": "This Gamma-Ray Burst Wasn't Dim, It Was Just Misunderstood",
+   "summary": "In March 2026, NASA's Fermi Gamma-ray Space Telescope detected a GRB with an unusual light signature. Its initial gamma radiation was dim, and the afterglow exhibited unusual, delayed peaks. As it turns out, we were…",
+   "start": "2026-10-30T16:20:24Z",
+   "peak": "2026-10-30T16:20:24Z",
+   "end": "2026-11-06T16:20:24Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/this-gamma-ray-burst-wasnt-dim-it-was-just-misunderstood",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/this-gamma-ray-burst-wasnt-dim-it-was-just-misunderstood",
+     "fetched": "2026-10-31T21:31:21Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:21Z",
+   "lastSeen": "2026-10-31T21:31:21Z",
+   "contentHash": "ccb99a5ad566"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-this-ancient-meteorite-hints-",
+   "kind": "news",
+   "title": "This Ancient Meteorite Hints at Mars' Warm, Wet Past",
+   "summary": "Ancient Martian meteorites are like time-capsules from the planet's past. They're delivered to us by impacts that launch them into space, where some of them find their way to Earth. One recently discovered meteorite…",
+   "start": "2026-10-30T19:14:01Z",
+   "peak": "2026-10-30T19:14:01Z",
+   "end": "2026-11-06T19:14:01Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past",
+     "fetched": "2026-10-31T21:31:21Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:21Z",
+   "lastSeen": "2026-10-31T21:31:21Z",
+   "contentHash": "fa51a99c0eb5"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-queens-university-belfast-stu",
+   "kind": "news",
+   "title": "Queen's University Belfast Students Find Neptune's Elusive Trojan Asteroids",
+   "summary": "Astronomers at Queen’s University Belfast have led an international team studying new solar system bodies near Neptune, helping to unravel the mysteries of our solar system’s evolution.",
+   "start": "2026-10-30T20:59:00Z",
+   "peak": "2026-10-30T20:59:00Z",
+   "end": "2026-11-06T20:59:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/queens-university-belfast-students-find-neptunes-elusive-trojan-asteroids",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/queens-university-belfast-students-find-neptunes-elusive-trojan-asteroids",
+     "fetched": "2026-10-31T21:31:21Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:21Z",
+   "lastSeen": "2026-10-31T21:31:21Z",
+   "contentHash": "0dc99759b36d"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-hera-probe-sees-asteroid-pair",
+   "kind": "news",
+   "title": "Hera Probe Sees Asteroid Pair Separately for First Time",
+   "summary": "Planetary defense is a growing concern among the scientific community, as efforts have been made to design and implement missions meant to deflect incoming threats to the Earth well in advance. In 2022, NASA…",
+   "start": "2026-10-31T01:52:53Z",
+   "peak": "2026-10-31T01:52:53Z",
+   "end": "2026-11-07T01:52:53Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time",
+     "fetched": "2026-10-31T21:31:21Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:21Z",
+   "lastSeen": "2026-10-31T21:31:21Z",
+   "contentHash": "1fd86e2ab740"
+  },
+  {
+   "id": "news:science-nasa-gov-image-article-apod-2026-october-31-night-on",
+   "kind": "news",
+   "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+   "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "start": "2026-10-31T04:05:00Z",
+   "peak": "2026-10-31T04:05:00Z",
+   "end": "2026-11-07T04:05:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+     "fetched": "2026-10-31T21:31:20Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:20Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "f42963dd328d"
+  },
+  {
+   "id": "news:earthsky-org-sun-sun-news-activity-solar-flare-cme-aurora-up",
+   "kind": "news",
+   "title": "Sun news: Halloween 2003 was a scary time to be a satellite",
+   "summary": "Sun news October 31, 2026: Satellite crews were counting damage from the Halloween storms 23 years ago today. Tonight brings a gentler treat: auroras! The post Sun news: Halloween 2003 was a scary time to be a satellite…",
+   "start": "2026-10-31T10:54:55Z",
+   "peak": "2026-10-31T10:54:55Z",
+   "end": "2026-11-07T10:54:55Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
+   "contentHash": "4f5127370b77"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-space-outposts-beyond-the-moo",
+   "kind": "news",
+   "title": "Space Outposts Beyond the Moon May Rely on Planetary AI",
+   "summary": "NASA plans to return astronauts to the lunar surface in 2028 for the first time since Apollo 17 in 1972. But the famed agency has no intention of stopping there, as they plan to establish a permanent human presence on…",
+   "start": "2026-10-31T19:24:37Z",
+   "peak": "2026-10-31T19:24:37Z",
+   "end": "2026-11-07T19:24:37Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai",
+     "fetched": "2026-10-31T21:31:21Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-31T21:31:21Z",
+   "lastSeen": "2026-10-31T21:31:21Z",
+   "contentHash": "73dca2caaba1"
   },
   {
    "id": "shower:NTA:2026",
@@ -1445,7 +2129,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "01f4ab53992c"
   },
   {
@@ -1481,7 +2165,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "789d770e89e8"
   },
   {
@@ -1517,7 +2201,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "474d90f1b669"
   },
   {
@@ -1553,7 +2237,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "7be2a3a29f9b"
   },
   {
@@ -1589,7 +2273,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "f5c698cc5125"
   },
   {
@@ -1627,7 +2311,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "b955c261ae1a"
   },
   {
@@ -1663,7 +2347,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "ff23e04dffc1"
   },
   {
@@ -1699,7 +2383,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "15124d6969a0"
   },
   {
@@ -1735,7 +2419,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "e42f01f40700"
   },
   {
@@ -1773,7 +2457,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "e510e93abc91"
   },
   {
@@ -1809,7 +2493,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "b758b78a7d30"
   },
   {
@@ -1845,7 +2529,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "6362677ace10"
   },
   {
@@ -1881,7 +2565,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "e14453b278c6"
   },
   {
@@ -1917,7 +2601,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "0d4a18dd46c6"
   },
   {
@@ -1953,7 +2637,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "cb0e9ce3256c"
   },
   {
@@ -1989,7 +2673,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "656d99906122"
   },
   {
@@ -2025,7 +2709,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "0ff17d7468a4"
   },
   {
@@ -2061,7 +2745,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-10-31T21:31:18Z",
    "contentHash": "e1995c7b2db8"
   },
   {
@@ -2099,7 +2783,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "7acabe372ada"
   },
   {
@@ -2137,7 +2821,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "8e578eac1244"
   },
   {
@@ -2175,7 +2859,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "81bd40cd9eb5"
   },
   {
@@ -2213,7 +2897,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "582dbf87b169"
   },
   {
@@ -2251,7 +2935,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "60c3a2ba6389"
   },
   {
@@ -2289,7 +2973,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "b392ede1ec86"
   },
   {
@@ -2327,7 +3011,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "c6906247b141"
   },
   {
@@ -2365,7 +3049,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "59fd4694a0f6"
   },
   {
@@ -2403,7 +3087,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "61cbe27718ae"
   },
   {
@@ -2441,7 +3125,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-10-31T21:31:20Z",
    "contentHash": "2b85ebefb57f"
   }
  ]
