@@ -1,222 +1,6 @@
 {
- "generated": "2026-10-07T13:37:06Z",
+ "generated": "2026-11-07T12:57:57Z",
  "events": [
-  {
-   "id": "news:www-esa-int-esa-multimedia-images-2026-09-galaxies-in-a-cosm",
-   "kind": "news",
-   "title": "Galaxies in a cosmic house of mirrors",
-   "summary": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies…",
-   "start": "2026-09-29T08:00:00Z",
-   "peak": "2026-09-29T08:00:00Z",
-   "end": "2026-10-06T08:00:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "ESA",
-   "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
-   "sources": [
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "8a0381c9f79a"
-  },
-  {
-   "id": "news:www-esa-int-science-exploration-human-and-robotic-exploratio",
-   "kind": "news",
-   "title": "Happy New Year on Mars",
-   "summary": "30 September 2026 marks the start of a new year on Mars. At exactly 10:16 CEST/08:16 UTC on Earth, the Red Planet begins a new orbit around our Sun.",
-   "start": "2026-09-30T06:00:00Z",
-   "peak": "2026-09-30T06:00:00Z",
-   "end": "2026-10-07T06:00:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "ESA",
-   "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
-   "sources": [
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "899eaa768d5e"
-  },
-  {
-   "id": "news:www-esa-int-science-exploration-space-science-smile-science-",
-   "kind": "news",
-   "title": "Science begins for Smile",
-   "summary": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the…",
-   "start": "2026-09-30T07:05:00Z",
-   "peak": "2026-09-30T07:05:00Z",
-   "end": "2026-10-07T07:05:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "ESA",
-   "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
-   "sources": [
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "7f631625f48f"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-first-direct-image-of-protopl",
-   "kind": "news",
-   "title": "First Direct Image of Protoplanet Swirling Surrounding Gas",
-   "summary": "The formation and evolution of planets is the driving force behind both where and how we might find life beyond Earth. This complex and lengthy process first begins with a massive ball of gas and dust that swirls until…",
-   "start": "2026-10-01T03:05:35Z",
-   "peak": "2026-10-01T03:05:35Z",
-   "end": "2026-10-08T03:05:35Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/first-direct-image-of-protoplanet-swirling-surrounding-gas",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/first-direct-image-of-protoplanet-swirling-surrounding-gas",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
-   "contentHash": "efe86109cad2"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-mars-north-pole-ice-is-far-cl",
-   "kind": "news",
-   "title": "Mars' North Pole Ice Is Far Cleaner Than Expected",
-   "summary": "The planet Mars is known for its massive dust storms, dust devils, and two large polar ice caps, with its north polar cap being one of the Red Planet’s most striking features. Comprised of water ice, the north polar cap…",
-   "start": "2026-10-01T05:45:19Z",
-   "peak": "2026-10-01T05:45:19Z",
-   "end": "2026-10-08T05:45:19Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/mars-north-pole-ice-is-far-cleaner-than-expected",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/mars-north-pole-ice-is-far-cleaner-than-expected",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
-   "contentHash": "bc7dab96ea6b"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-exercise-keeps-astronaut-hear",
-   "kind": "news",
-   "title": "Exercise Keeps Astronaut Hearts in Fighting Shape for the Journey to Mars",
-   "summary": "Getting a human body to Mars will take a toll on it. NASA and other space agencies have been concerned for years that the 6-9 month travel time to get to the Red Planet could have such a deleterious impact on human…",
-   "start": "2026-10-01T10:09:07Z",
-   "peak": "2026-10-01T10:09:07Z",
-   "end": "2026-10-08T10:09:07Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/exercise-keeps-astronaut-hearts-in-fighting-shape-for-the-journey-to-mars",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/exercise-keeps-astronaut-hearts-in-fighting-shape-for-the-journey-to-mars",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
-   "contentHash": "345a78454ead"
-  },
   {
    "id": "news:www-universetoday-com-articles-nasas-hubble-marks-its-200000",
    "kind": "news",
@@ -243,10 +27,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -279,10 +63,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -315,10 +99,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -351,10 +135,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -387,10 +171,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -423,10 +207,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -459,10 +243,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -495,10 +279,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -531,10 +315,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -567,51 +351,15 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
    "lastSeen": "2026-10-05T20:51:52Z",
    "contentHash": "658a9e64d499"
-  },
-  {
-   "id": "news:apod-2026-10-05",
-   "kind": "news",
-   "title": "Picture of the day: NASA Science",
-   "summary": "A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key defining feature of this huge galaxy is a dark brim of dust that circles the disk galaxy's center. A much longer… Image: NASA APOD.",
-   "start": "2026-10-05T12:00:00Z",
-   "peak": "2026-10-05T12:00:00Z",
-   "end": "2026-10-08T12:00:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "NASA APOD",
-   "sourceUrl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-   "sources": [
-    {
-     "name": "NASA APOD",
-     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.9,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
-   "contentHash": "6cb41347d197"
   },
   {
    "id": "news:science-nasa-gov-missions-hubble-suspected-second-generation",
@@ -639,10 +387,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
@@ -675,10 +423,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:06Z",
@@ -711,10 +459,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -747,10 +495,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -783,10 +531,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -819,10 +567,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -855,10 +603,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -891,10 +639,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -932,10 +680,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -968,10 +716,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1004,10 +752,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1040,10 +788,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1076,10 +824,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1112,51 +860,15 @@
     }
    ],
    "confidence": 0.7,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "human",
-    "at": "2026-10-07T13:39:50Z",
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
    "lastSeen": "2026-10-07T13:36:58Z",
    "contentHash": "dcfdee1be5f8"
-  },
-  {
-   "id": "news:earthsky-org-sun-sun-news-activity-solar-flare-cme-aurora-up",
-   "kind": "news",
-   "title": "Sun news: Sun-stuff headed our way, auroras to come?",
-   "summary": "Sun news, October 7, 2026: Sun-stuff from yesterday's M flares is heading to Earth. It's due to arrive on October 9, and could trigger auroras. The post Sun news: Sun-stuff headed our way, auroras to come? first…",
-   "start": "2026-10-07T09:00:53Z",
-   "peak": "2026-10-07T09:00:53Z",
-   "end": "2026-10-14T09:00:53Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "556a269c4f91"
   },
   {
    "id": "news:earthsky-org-todays-image-moon-and-jupiter-pics-oct-6-2026",
@@ -1184,10 +896,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1220,10 +932,10 @@
     }
    ],
    "confidence": 0.7,
-   "status": "draft",
+   "status": "expired",
    "review": {
     "by": null,
-    "at": null,
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-07T13:36:58Z",
@@ -1256,14 +968,14 @@
     }
    ],
    "confidence": 0.7,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "human",
-    "at": "2026-10-07T13:39:50Z",
+    "at": "2026-11-07T12:57:57Z",
     "note": null
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
    "contentHash": "f74e662d7cae"
   },
   {
@@ -1292,10 +1004,10 @@
     }
    ],
    "confidence": 0.9,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "pipeline",
-    "at": "2026-10-05T20:49:03Z",
+    "at": "2026-11-07T12:57:57Z",
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
@@ -1330,10 +1042,10 @@
     }
    ],
    "confidence": 0.95,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "pipeline",
-    "at": "2026-10-07T13:36:56Z",
+    "at": "2026-11-07T12:57:57Z",
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-07T13:36:56Z",
@@ -1373,7 +1085,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "6bdbdd23bb00"
   },
   {
@@ -1409,8 +1121,658 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "e68ff3957da2"
+  },
+  {
+   "id": "news:earthsky-org-astronomy-essentials-dark-nebulae-molecular-clo",
+   "kind": "news",
+   "title": "Dark nebulae are star-obscuring clouds of gas and dust",
+   "summary": "Dark nebulae are clouds of gas and dust in space. They block the light of stars shining behind them. Often, they're locations where new stars are forming. The post Dark nebulae are star-obscuring clouds of gas and dust…",
+   "start": "2026-11-05T09:00:00Z",
+   "peak": "2026-11-05T09:00:00Z",
+   "end": "2026-11-12T09:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/astronomy-essentials/dark-nebulae-molecular-clouds-dust/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/astronomy-essentials/dark-nebulae-molecular-clouds-dust/",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "23fa66d708ee"
+  },
+  {
+   "id": "news:earthsky-org-todays-image-moon-and-jupiter-hide-and-seek-occ",
+   "kind": "news",
+   "title": "The moon and Jupiter play hide-and-seek. More pics here!",
+   "summary": "The moon and Jupiter played hide-and-seek on November 3, 2026. And they'll pair up again at the end of the month! Find out more. The post The moon and Jupiter play hide-and-seek. More pics here! first appeared on…",
+   "start": "2026-11-05T09:30:00Z",
+   "peak": "2026-11-05T09:30:00Z",
+   "end": "2026-11-12T09:30:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/todays-image/moon-and-jupiter-hide-and-seek-occultation-nov-2026/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/todays-image/moon-and-jupiter-hide-and-seek-occultation-nov-2026/",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "f5ce891f28b9"
+  },
+  {
+   "id": "news:earthsky-org-space-escapade-mission-mars-gold-and-blue-probe",
+   "kind": "news",
+   "title": "ESCAPADE mission to fly past Earth twice in 2 days",
+   "summary": "On November 7 and 9, 2026, the twin probes of the ESCAPADE mission — first Blue and then Gold — will perform flybys of Earth on the way to Mars. The post ESCAPADE mission to fly past Earth twice in 2 days first appeared…",
+   "start": "2026-11-05T11:25:00Z",
+   "peak": "2026-11-05T11:25:00Z",
+   "end": "2026-11-12T11:25:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/escapade-mission-mars-gold-and-blue-probes/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/escapade-mission-mars-gold-and-blue-probes/",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "f0ecb829ae4f"
+  },
+  {
+   "id": "news:science-nasa-gov-missions-hubble-hubble-learns-galactic-hist",
+   "kind": "news",
+   "title": "Hubble Learns Galactic History From Stars",
+   "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+   "start": "2026-11-05T12:56:21Z",
+   "peak": "2026-11-05T12:56:21Z",
+   "end": "2026-11-12T12:56:21Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+     "fetched": "2026-11-07T12:57:55Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:55Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
+   "contentHash": "962acff6bc34"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-interstellar-visitor-3iatlas-",
+   "kind": "news",
+   "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
+   "summary": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the…",
+   "start": "2026-11-05T15:08:44Z",
+   "peak": "2026-11-05T15:08:44Z",
+   "end": "2026-11-12T15:08:44Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "a8348f553724"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-a-mighty-wind-blew-away-gas-a",
+   "kind": "news",
+   "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
+   "summary": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies about 400 to 500 million years after the Big Bang. But these…",
+   "start": "2026-11-05T17:11:33Z",
+   "peak": "2026-11-05T17:11:33Z",
+   "end": "2026-11-12T17:11:33Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "70672358d18b"
+  },
+  {
+   "id": "news:earthsky-org-space-hera-mission-dart-asteroid-impact",
+   "kind": "news",
+   "title": "Hera mission begins asteroid defense investigation: 1st close-up views!",
+   "summary": "The Hera mission just got its 1st closeup view of Didymos and its little moonlet Dimorphos. Soon it will begin investigating the aftermath of the DART impact. The post Hera mission begins asteroid defense investigation:…",
+   "start": "2026-11-05T17:15:56Z",
+   "peak": "2026-11-05T17:15:56Z",
+   "end": "2026-11-12T17:15:56Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/hera-mission-dart-asteroid-impact/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/hera-mission-dart-asteroid-impact/",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "41ef8f7d771b"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-asteroids-oddball-shapes-make",
+   "kind": "news",
+   "title": "Asteroids' Oddball Shapes Make Deflecting Them Challenging",
+   "summary": "In a pinch, we could use a stand-off nuclear blast to redirect a dangerous asteroid on short notice. There's no atmospheric shock wave in space, but the x-ray pulse could still deflect the space rock. But asteroids…",
+   "start": "2026-11-05T19:26:56Z",
+   "peak": "2026-11-05T19:26:56Z",
+   "end": "2026-11-12T19:26:56Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "b443e593fc42"
+  },
+  {
+   "id": "news:earthsky-org-constellations-constellation-andromeda-the-chai",
+   "kind": "news",
+   "title": "The constellation Andromeda the Chained Lady",
+   "summary": "The constellation Andromeda the Chained Lady is most famous for containing M31, the Andromeda Galaxy, the closest large spiral galaxy to the Milky Way. The post The constellation Andromeda the Chained Lady first…",
+   "start": "2026-11-06T09:00:00Z",
+   "peak": "2026-11-06T09:00:00Z",
+   "end": "2026-11-13T09:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/constellations/constellation-andromeda-the-chained-lady/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/constellations/constellation-andromeda-the-chained-lady/",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "1749cb055054"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-big-bang-fix-puts-voyager-acr",
+   "kind": "news",
+   "title": "'Big Bang' Fix Puts Voyager Across the 'One Light-Day' Mark",
+   "summary": "Flashback to 1977. Jimmy Carter was U.S. president, Star Wars was a box office hit, and the two Voyager spacecraft departed on an historic Grand Tour of the solar system. Now, teams at NASA’s Jet Propulsion Laboratory…",
+   "start": "2026-11-06T11:49:00Z",
+   "peak": "2026-11-06T11:49:00Z",
+   "end": "2026-11-13T11:49:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "2a5c4c19dfa3"
+  },
+  {
+   "id": "news:earthsky-org-space-active-volcanoes-on-mars-hydrogen-chlorid",
+   "kind": "news",
+   "title": "Active volcanoes on Mars? Noxious gas discovery says — maybe",
+   "summary": "Are there still active volcanoes on Mars? New detections of hydrogen chloride from below the surface suggest flowing magma. The post Active volcanoes on Mars? Noxious gas discovery says — maybe first appeared on…",
+   "start": "2026-11-06T13:00:00Z",
+   "peak": "2026-11-06T13:00:00Z",
+   "end": "2026-11-13T13:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/active-volcanoes-on-mars-hydrogen-chloride-trace-gas-orbiter/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/active-volcanoes-on-mars-hydrogen-chloride-trace-gas-orbiter/",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "6c2317f7eef1"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-earths-gravity-may-have-kept-",
+   "kind": "news",
+   "title": "Earth's Gravity May Have Kept the Early Moon's Volcanic Heart Beating",
+   "summary": "We typically think of the Moon as a static, floating object that has remained the same for basically its entire lifetime, with an occasional asteroid impact serving as an exception. That understanding is grounded in…",
+   "start": "2026-11-06T14:42:30Z",
+   "peak": "2026-11-06T14:42:30Z",
+   "end": "2026-11-13T14:42:30Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "6b9a6703a8c0"
+  },
+  {
+   "id": "news:www-nasa-gov-image-article-m30s-sparkling-stars",
+   "kind": "news",
+   "title": "M30’s Sparkling Stars",
+   "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who…",
+   "start": "2026-11-06T16:23:41Z",
+   "peak": "2026-11-06T16:23:41Z",
+   "end": "2026-11-13T16:23:41Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+     "fetched": "2026-11-07T12:57:55Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:55Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
+   "contentHash": "6fadc1845610"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-nasas-twin-spacecraft-will-ex",
+   "kind": "news",
+   "title": "NASA's Twin Spacecraft Will Execute Powered Slingshot Maneuvers on Their Way to Mars",
+   "summary": "NASA's ESCAPADE mission features a pair of identical spacecraft on their way to Mars. They launched outside of the normal launch window, so they'll perform powered slingshot maneuvers to boost their speed. Once there,…",
+   "start": "2026-11-06T16:35:09Z",
+   "peak": "2026-11-06T16:35:09Z",
+   "end": "2026-11-13T16:35:09Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "0ad7f6562714"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-the-elt-can-probe-ultra-diffu",
+   "kind": "news",
+   "title": "The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries",
+   "summary": "Ultra-Diffuse Galaxies are strange because they're as large as the Milky Way, but have far fewer stars. It's as if they're puffed up for some reason. Determining what's going on with them could help confirm the…",
+   "start": "2026-11-06T20:34:10Z",
+   "peak": "2026-11-06T20:34:10Z",
+   "end": "2026-11-13T20:34:10Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/the-elt-can-probe-ultra-diffuse-galaxies-and-their-dark-matter-mysteries",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/the-elt-can-probe-ultra-diffuse-galaxies-and-their-dark-matter-mysteries",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "dba394b8d0d8"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-our-suns-undiscovered-stellar",
+   "kind": "news",
+   "title": "Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist",
+   "summary": "The decades old idea that our solar system’s Oort Cloud is continually perturbed by a heretofore undetected low mass Red Dwarf star remains the best explanation for periodicities found in Earth’s impact record. Or so…",
+   "start": "2026-11-07T08:47:00Z",
+   "peak": "2026-11-07T08:47:00Z",
+   "end": "2026-11-14T08:47:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
+     "fetched": "2026-11-07T12:57:56Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-07T12:57:56Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "7789870e8339"
+  },
+  {
+   "id": "news:earthsky-org-sun-sun-news-activity-solar-flare-cme-aurora-up",
+   "kind": "news",
+   "title": "Sun news: Fast solar wind is headed Earth’s way",
+   "summary": "Sun news November 7, 2026: Fast wind from a huge coronal hole is reaching Earth. G1 to G2 storms are possible this weekend. Aurora hunters, get ready! The post Sun news: Fast solar wind is headed Earth’s way first…",
+   "start": "2026-11-07T11:35:35Z",
+   "peak": "2026-11-07T11:35:35Z",
+   "end": "2026-11-14T11:35:35Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+     "fetched": "2026-10-05T20:49:05Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-10-05T20:49:05Z",
+   "lastSeen": "2026-11-07T12:57:56Z",
+   "contentHash": "a2d034be2ba1"
+  },
+  {
+   "id": "aurora:2026-11-08",
+   "kind": "aurora",
+   "title": "Aurora forecast: Kp 5 (G1)",
+   "summary": "NOAA forecasts a geomagnetic storm peaking around 21:00 UTC. Aurora possible from about 55° latitude and poleward (Scotland, Scandinavia, Canada). Look north from a dark spot after dusk; a phone camera on night mode sees it before your eyes do.",
+   "start": "2026-11-08T18:00:00Z",
+   "peak": "2026-11-08T21:00:00Z",
+   "end": "2026-11-09T03:00:00Z",
+   "dateOnly": false,
+   "needsDark": true,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [
+    "sun"
+   ],
+   "sourceName": "NOAA SWPC",
+   "sourceUrl": "https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json",
+   "sources": [
+    {
+     "name": "NOAA SWPC",
+     "url": "https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json",
+     "fetched": "2026-11-07T12:57:55Z"
+    }
+   ],
+   "confidence": 0.95,
+   "status": "approved",
+   "review": {
+    "by": "pipeline",
+    "at": "2026-11-07T12:57:55Z",
+    "note": "auto-approved"
+   },
+   "firstSeen": "2026-11-07T12:57:55Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
+   "contentHash": "1f1f051719f2"
   },
   {
    "id": "shower:NTA:2026",
@@ -1445,7 +1807,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "01f4ab53992c"
   },
   {
@@ -1481,7 +1843,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "789d770e89e8"
   },
   {
@@ -1517,7 +1879,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "474d90f1b669"
   },
   {
@@ -1553,7 +1915,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "7be2a3a29f9b"
   },
   {
@@ -1589,7 +1951,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "f5c698cc5125"
   },
   {
@@ -1627,7 +1989,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "b955c261ae1a"
   },
   {
@@ -1663,7 +2025,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "ff23e04dffc1"
   },
   {
@@ -1699,7 +2061,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "15124d6969a0"
   },
   {
@@ -1735,7 +2097,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "e42f01f40700"
   },
   {
@@ -1773,7 +2135,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "e510e93abc91"
   },
   {
@@ -1809,7 +2171,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "b758b78a7d30"
   },
   {
@@ -1845,7 +2207,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "6362677ace10"
   },
   {
@@ -1881,7 +2243,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "e14453b278c6"
   },
   {
@@ -1917,7 +2279,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "0d4a18dd46c6"
   },
   {
@@ -1953,7 +2315,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "cb0e9ce3256c"
   },
   {
@@ -1989,7 +2351,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "656d99906122"
   },
   {
@@ -2025,7 +2387,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "0ff17d7468a4"
   },
   {
@@ -2061,7 +2423,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-07T12:57:54Z",
    "contentHash": "e1995c7b2db8"
   },
   {
@@ -2099,7 +2461,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "7acabe372ada"
   },
   {
@@ -2137,7 +2499,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "8e578eac1244"
   },
   {
@@ -2175,7 +2537,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "81bd40cd9eb5"
   },
   {
@@ -2213,7 +2575,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "582dbf87b169"
   },
   {
@@ -2251,7 +2613,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "60c3a2ba6389"
   },
   {
@@ -2289,7 +2651,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "b392ede1ec86"
   },
   {
@@ -2327,7 +2689,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "c6906247b141"
   },
   {
@@ -2365,7 +2727,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "59fd4694a0f6"
   },
   {
@@ -2403,7 +2765,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "61cbe27718ae"
   },
   {
@@ -2441,7 +2803,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-07T12:57:55Z",
    "contentHash": "2b85ebefb57f"
   }
  ]
