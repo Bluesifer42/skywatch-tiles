@@ -1,1345 +1,6 @@
 {
- "generated": "2026-10-07T13:37:06Z",
+ "generated": "2026-11-14T17:59:46Z",
  "events": [
-  {
-   "id": "news:www-esa-int-esa-multimedia-images-2026-09-galaxies-in-a-cosm",
-   "kind": "news",
-   "title": "Galaxies in a cosmic house of mirrors",
-   "summary": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies…",
-   "start": "2026-09-29T08:00:00Z",
-   "peak": "2026-09-29T08:00:00Z",
-   "end": "2026-10-06T08:00:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "ESA",
-   "sourceUrl": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
-   "sources": [
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "8a0381c9f79a"
-  },
-  {
-   "id": "news:www-esa-int-science-exploration-human-and-robotic-exploratio",
-   "kind": "news",
-   "title": "Happy New Year on Mars",
-   "summary": "30 September 2026 marks the start of a new year on Mars. At exactly 10:16 CEST/08:16 UTC on Earth, the Red Planet begins a new orbit around our Sun.",
-   "start": "2026-09-30T06:00:00Z",
-   "peak": "2026-09-30T06:00:00Z",
-   "end": "2026-10-07T06:00:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "ESA",
-   "sourceUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
-   "sources": [
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "899eaa768d5e"
-  },
-  {
-   "id": "news:www-esa-int-science-exploration-space-science-smile-science-",
-   "kind": "news",
-   "title": "Science begins for Smile",
-   "summary": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the…",
-   "start": "2026-09-30T07:05:00Z",
-   "peak": "2026-09-30T07:05:00Z",
-   "end": "2026-10-07T07:05:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "ESA",
-   "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
-   "sources": [
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "7f631625f48f"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-first-direct-image-of-protopl",
-   "kind": "news",
-   "title": "First Direct Image of Protoplanet Swirling Surrounding Gas",
-   "summary": "The formation and evolution of planets is the driving force behind both where and how we might find life beyond Earth. This complex and lengthy process first begins with a massive ball of gas and dust that swirls until…",
-   "start": "2026-10-01T03:05:35Z",
-   "peak": "2026-10-01T03:05:35Z",
-   "end": "2026-10-08T03:05:35Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/first-direct-image-of-protoplanet-swirling-surrounding-gas",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/first-direct-image-of-protoplanet-swirling-surrounding-gas",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
-   "contentHash": "efe86109cad2"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-mars-north-pole-ice-is-far-cl",
-   "kind": "news",
-   "title": "Mars' North Pole Ice Is Far Cleaner Than Expected",
-   "summary": "The planet Mars is known for its massive dust storms, dust devils, and two large polar ice caps, with its north polar cap being one of the Red Planet’s most striking features. Comprised of water ice, the north polar cap…",
-   "start": "2026-10-01T05:45:19Z",
-   "peak": "2026-10-01T05:45:19Z",
-   "end": "2026-10-08T05:45:19Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/mars-north-pole-ice-is-far-cleaner-than-expected",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/mars-north-pole-ice-is-far-cleaner-than-expected",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
-   "contentHash": "bc7dab96ea6b"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-exercise-keeps-astronaut-hear",
-   "kind": "news",
-   "title": "Exercise Keeps Astronaut Hearts in Fighting Shape for the Journey to Mars",
-   "summary": "Getting a human body to Mars will take a toll on it. NASA and other space agencies have been concerned for years that the 6-9 month travel time to get to the Red Planet could have such a deleterious impact on human…",
-   "start": "2026-10-01T10:09:07Z",
-   "peak": "2026-10-01T10:09:07Z",
-   "end": "2026-10-08T10:09:07Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/exercise-keeps-astronaut-hearts-in-fighting-shape-for-the-journey-to-mars",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/exercise-keeps-astronaut-hearts-in-fighting-shape-for-the-journey-to-mars",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
-   "contentHash": "345a78454ead"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-nasas-hubble-marks-its-200000",
-   "kind": "news",
-   "title": "NASA's Hubble Marks its 200,000th Orbit by Watching Lensed Supernova",
-   "summary": "NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19th and marked this milestone with observations that could help refine astronomers' measurements of cosmic expansion (aka. the Hubble…",
-   "start": "2026-10-01T20:29:07Z",
-   "peak": "2026-10-01T20:29:07Z",
-   "end": "2026-10-08T20:29:07Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/nasas-hubble-marks-its-200000th-orbit-by-watching-lensed-supernova",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/nasas-hubble-marks-its-200000th-orbit-by-watching-lensed-supernova",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
-   "contentHash": "e7a8b047eb44"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-nasas-first-selection-for-a-n",
-   "kind": "news",
-   "title": "NASA's First Selection for a New Class of Mission: The PRIMA Far-Infrared Telescope",
-   "summary": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the…",
-   "start": "2026-10-01T22:09:16Z",
-   "peak": "2026-10-01T22:09:16Z",
-   "end": "2026-10-08T22:09:16Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/nasas-first-selection-for-a-new-class-of-mission-the-prima-far-infrared-telescope",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/nasas-first-selection-for-a-new-class-of-mission-the-prima-far-infrared-telescope",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
-   "contentHash": "91aa16abde2f"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-asteroid-bennu-has-an-identit",
-   "kind": "news",
-   "title": "Asteroid Bennu Has an Identity Crisis, and Jupiter Might Be to Blame",
-   "summary": "Asteroid sample return missions have brought well preserved samples of the early solar system (that hadn’t been roasted in a fireball) back to Earth for the first time. But those samples, like the OSIRIS-REx sample from…",
-   "start": "2026-10-02T10:00:00Z",
-   "peak": "2026-10-02T10:00:00Z",
-   "end": "2026-10-09T10:00:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/asteroid-bennu-has-an-identity-crisis-and-jupiter-might-be-to-blame",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/asteroid-bennu-has-an-identity-crisis-and-jupiter-might-be-to-blame",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "c365e916b83d"
-  },
-  {
-   "id": "news:earthsky-org-space-earthlike-planet-with-2-stars-70-ophiuchi",
-   "kind": "news",
-   "title": "Could an Earthlike planet with 2 stars be nearby?",
-   "summary": "A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star system. The post Could an Earthlike planet with 2 stars be nearby? first…",
-   "start": "2026-10-02T11:12:52Z",
-   "peak": "2026-10-02T11:12:52Z",
-   "end": "2026-10-09T11:12:52Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "aa09c4d1d312"
-  },
-  {
-   "id": "news:earthsky-org-space-alien-radio-signal-k2-155-d-fast-seti",
-   "kind": "news",
-   "title": "Is this an alien radio signal from a super-Earth exoplanet?",
-   "summary": "Did China's FAST radio telescope detect an alien radio signal coming from the super-Earth exoplanet K2-155 d? Probably not. The post Is this an alien radio signal from a super-Earth exoplanet? first appeared on EarthSky…",
-   "start": "2026-10-02T11:19:32Z",
-   "peak": "2026-10-02T11:19:32Z",
-   "end": "2026-10-09T11:19:32Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/space/alien-radio-signal-k2-155-d-fast-seti/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/space/alien-radio-signal-k2-155-d-fast-seti/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "2d406bc9cc2e"
-  },
-  {
-   "id": "news:earthsky-org-astronomy-essentials-saturn-at-opposition-close",
-   "kind": "news",
-   "title": "We fly between the sun and Saturn. At opposition today",
-   "summary": "Don't miss Saturn at opposition on and around the night of October 4, 2026. That's when our planet Earth passes between the sun and Saturn. The post We fly between the sun and Saturn. At opposition today first appeared…",
-   "start": "2026-10-04T11:49:00Z",
-   "peak": "2026-10-04T11:49:00Z",
-   "end": "2026-10-11T11:49:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/astronomy-essentials/saturn-at-opposition-closest-brightest-best/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/astronomy-essentials/saturn-at-opposition-closest-brightest-best/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "6880ce696816"
-  },
-  {
-   "id": "news:www-nasa-gov-general-mapping-the-gaps-in-nasas-return-to-the",
-   "kind": "news",
-   "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
-   "summary": "“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific mission, not even NASA itself, just the…",
-   "start": "2026-10-04T19:10:59Z",
-   "peak": "2026-10-04T19:10:59Z",
-   "end": "2026-10-11T19:10:59Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "NASA",
-   "sourceUrl": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "dc6aa3bab619"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-xrism-makes-first-ever-detect",
-   "kind": "news",
-   "title": "XRISM Makes First-Ever Detection of a Pulsar Feeding from a Companion's Stellar \"Wind\"",
-   "summary": "Using data from the Japan-led XRISM observatory, astronomers have directly observed a giant star’s stellar wind captured by its compact companion (triggering X-ray flares) for the first time.",
-   "start": "2026-10-04T21:54:36Z",
-   "peak": "2026-10-04T21:54:36Z",
-   "end": "2026-10-11T21:54:36Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/xrism-makes-first-ever-detection-of-a-pulsar-feeding-from-a-companions-stellar-wind",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/xrism-makes-first-ever-detection-of-a-pulsar-feeding-from-a-companions-stellar-wind",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "5793bd36da92"
-  },
-  {
-   "id": "news:science-nasa-gov-earth-earth-observatory-moon-like-madagasca",
-   "kind": "news",
-   "title": "Moon-Like Madagascar",
-   "summary": "A bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the country’s south.",
-   "start": "2026-10-05T04:01:00Z",
-   "peak": "2026-10-05T04:01:00Z",
-   "end": "2026-10-12T04:01:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "NASA",
-   "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "ef6e9a850fc9"
-  },
-  {
-   "id": "news:science-nasa-gov-image-article-apod-2026-october-5-m104-the-",
-   "kind": "news",
-   "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
-   "summary": "APOD Science APOD APOD: 2026 October 5 – M104:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-   "start": "2026-10-05T04:05:00Z",
-   "peak": "2026-10-05T04:05:00Z",
-   "end": "2026-10-12T04:05:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "NASA",
-   "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "658a9e64d499"
-  },
-  {
-   "id": "news:apod-2026-10-05",
-   "kind": "news",
-   "title": "Picture of the day: NASA Science",
-   "summary": "A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key defining feature of this huge galaxy is a dark brim of dust that circles the disk galaxy's center. A much longer… Image: NASA APOD.",
-   "start": "2026-10-05T12:00:00Z",
-   "peak": "2026-10-05T12:00:00Z",
-   "end": "2026-10-08T12:00:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "NASA APOD",
-   "sourceUrl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-   "sources": [
-    {
-     "name": "NASA APOD",
-     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.9,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-05T20:51:53Z",
-   "contentHash": "6cb41347d197"
-  },
-  {
-   "id": "news:science-nasa-gov-missions-hubble-suspected-second-generation",
-   "kind": "news",
-   "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
-   "summary": "New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems.",
-   "start": "2026-10-05T15:00:35Z",
-   "peak": "2026-10-05T15:00:35Z",
-   "end": "2026-10-12T15:00:35Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "NASA",
-   "sourceUrl": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-05T20:51:52Z",
-   "contentHash": "b29c6eeebbfe"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-chandra-x-ray-observatory-dro",
-   "kind": "news",
-   "title": "Chandra X-ray Observatory Drops New View of our Galaxy’s Unruly Centre",
-   "summary": "The core of the Milky Way is a dense, active, messy region, dominated by a supermassive black hole called Sagittarius A* (Sgr A*) hiding at the heart of the galaxy. But Sgr A* is only a supporting actor in this stunning…",
-   "start": "2026-10-05T15:52:00Z",
-   "peak": "2026-10-05T15:52:00Z",
-   "end": "2026-10-12T15:52:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/chandra-x-ray-observatory-drops-new-view-of-our-galaxys-unruly-centre",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/chandra-x-ray-observatory-drops-new-view-of-our-galaxys-unruly-centre",
-     "fetched": "2026-10-05T20:49:06Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:06Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "fb585a31a524"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-new-simulations-connect-the-f",
-   "kind": "news",
-   "title": "New Simulations Connect the First Galaxies to the Universe We See Today",
-   "summary": "In a recent study, researchers at the international MEGATRON project used some of the most detailed simulations of the early Universe to investigate how the first stars and galaxies formed.",
-   "start": "2026-10-05T22:33:00Z",
-   "peak": "2026-10-05T22:33:00Z",
-   "end": "2026-10-12T22:33:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/new-simulations-connect-the-first-stars-to-cosmic-fingerprints-still-visible-today",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/new-simulations-connect-the-first-stars-to-cosmic-fingerprints-still-visible-today",
-     "fetched": "2026-10-07T13:36:58Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "9a1ac76a312b"
-  },
-  {
-   "id": "news:science-nasa-gov-image-article-apod-2026-october-6-a-complet",
-   "kind": "news",
-   "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
-   "summary": "APODScienceAPODAPOD: 2026 October 6 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our…",
-   "start": "2026-10-06T04:05:00Z",
-   "peak": "2026-10-06T04:05:00Z",
-   "end": "2026-10-13T04:05:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "NASA",
-   "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
-     "fetched": "2026-10-07T13:36:56Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:56Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
-   "contentHash": "1bc890183526"
-  },
-  {
-   "id": "news:earthsky-org-astronomy-essentials-flashing-star-autumn-capel",
-   "kind": "news",
-   "title": "Flashing star in autumn? Here are 3 candidates",
-   "summary": "Flashing star in October? Discover 3 bright stars that shimmer in red, green and other colors, and find out why they put on this dazzling show. The post Flashing star in autumn? Here are 3 candidates first appeared on…",
-   "start": "2026-10-06T08:55:56Z",
-   "peak": "2026-10-06T08:55:56Z",
-   "end": "2026-10-13T08:55:56Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/astronomy-essentials/flashing-star-autumn-capella-arcturus-sirius/",
-     "fetched": "2026-10-07T13:36:58Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "71702b0a9f59"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-a-buried-volcano-on-the-moon-",
-   "kind": "news",
-   "title": "A Buried Volcano on the Moon Hints At An Ancient Lunar Dynamo",
-   "summary": "Scientists know for certain the moon doesn’t currently have a magnetosphere. But they’ve been debating for decades about whether it ever did. Data from both Apollo samples and orbital scientific instruments have proven…",
-   "start": "2026-10-06T10:12:28Z",
-   "peak": "2026-10-06T10:12:28Z",
-   "end": "2026-10-13T10:12:28Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/a-buried-volcano-on-the-moon-hints-at-an-ancient-lunar-dynamo",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/a-buried-volcano-on-the-moon-hints-at-an-ancient-lunar-dynamo",
-     "fetched": "2026-10-07T13:36:58Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "72e8f74fde5e"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-to-keep-gps-constellations-fr",
-   "kind": "news",
-   "title": "To Keep GPS Constellations From Drifting, Look To The Moon",
-   "summary": "Global Positioning Systems are a key feature in everyday life for much of the world’s population. Whether it’s ensuring a ship delivers its goods safely, or you’re able to avoid a road closure on your commute home, GPS…",
-   "start": "2026-10-06T11:09:32Z",
-   "peak": "2026-10-06T11:09:32Z",
-   "end": "2026-10-13T11:09:32Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/to-keep-gps-constellations-from-drifting-look-to-the-moon",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/to-keep-gps-constellations-from-drifting-look-to-the-moon",
-     "fetched": "2026-10-07T13:36:58Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "9e8b929214da"
-  },
-  {
-   "id": "news:earthsky-org-space-most-bizarre-moons-solar-system",
-   "kind": "news",
-   "title": "Solar system’s most bizarre moons! Take the tour",
-   "summary": "The solar system’s most bizarre moons reveal active, complex worlds that continue to surprise scientists. Are any of them harboring life? The post Solar system’s most bizarre moons! Take the tour first appeared on…",
-   "start": "2026-10-06T11:30:32Z",
-   "peak": "2026-10-06T11:30:32Z",
-   "end": "2026-10-13T11:30:32Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/space/most-bizarre-moons-solar-system/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/space/most-bizarre-moons-solar-system/",
-     "fetched": "2026-10-07T13:36:58Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "4e71b25b4133"
-  },
-  {
-   "id": "news:science-nasa-gov-missions-webb-nasas-webb-captures-commotion",
-   "kind": "news",
-   "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
-   "summary": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which…",
-   "start": "2026-10-06T13:00:00Z",
-   "peak": "2026-10-06T13:00:00Z",
-   "end": "2026-10-13T13:00:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "NASA",
-   "sourceUrl": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
-     "fetched": "2026-10-07T13:36:56Z"
-    },
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
-     "fetched": "2026-10-07T13:36:57Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:56Z",
-   "lastSeen": "2026-10-07T13:36:57Z",
-   "contentHash": "728c6fd4b520"
-  },
-  {
-   "id": "news:www-nasa-gov-image-article-astronomers-solve-cosmic-cold-cas",
-   "kind": "news",
-   "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
-   "summary": "Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet. This artist’s concept released on Oct. 5, 2026, depicts that…",
-   "start": "2026-10-06T16:09:13Z",
-   "peak": "2026-10-06T16:09:13Z",
-   "end": "2026-10-13T16:09:13Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "NASA",
-   "sourceUrl": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/",
-     "fetched": "2026-10-07T13:36:56Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:56Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
-   "contentHash": "75fae6992e0c"
-  },
-  {
-   "id": "news:www-nasa-gov-directorates-stmd-prizes-challenges-crowdsourci",
-   "kind": "news",
-   "title": "Lunar Grounding Challenge",
-   "summary": "As an astronaut traverses the lunar South Pole, tribocharging from walking on the lunar surface and plasma charging from the ambient plasma generate electric charge on the spacesuit. This problem is severely compounded…",
-   "start": "2026-10-06T18:22:24Z",
-   "peak": "2026-10-06T18:22:24Z",
-   "end": "2026-10-13T18:22:24Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "NASA",
-   "sourceUrl": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/",
-     "fetched": "2026-10-07T13:36:56Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:56Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
-   "contentHash": "2c1f6d16ff50"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-galaxy-evolution-can-be-affec",
-   "kind": "news",
-   "title": "Galaxy Evolution Can be Affected by Black Hole Jets",
-   "summary": "In recent decades, astronomers have found evidence that supermassive black holes can really mess with their galaxies' evolution. They gobble up material intended for star formation, quenching the birth of stars.…",
-   "start": "2026-10-07T01:25:41Z",
-   "peak": "2026-10-07T01:25:41Z",
-   "end": "2026-10-14T01:25:41Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/galaxy-evolution-can-be-affected-by-black-hole-jets",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/galaxy-evolution-can-be-affected-by-black-hole-jets",
-     "fetched": "2026-10-07T13:36:58Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "b1a2fe81f89d"
-  },
-  {
-   "id": "news:science-nasa-gov-image-article-apod-2026-october-7-supernova",
-   "kind": "news",
-   "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
-   "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-   "start": "2026-10-07T04:05:00Z",
-   "peak": "2026-10-07T04:05:00Z",
-   "end": "2026-10-14T04:05:00Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "NASA",
-   "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
-     "fetched": "2026-10-07T13:36:56Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:56Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
-   "contentHash": "08db9fcbdf8a"
-  },
-  {
-   "id": "news:earthsky-org-tonight-cassiopeia-the-queen-also-points-to-and",
-   "kind": "news",
-   "title": "Find the Andromeda Galaxy using Cassiopeia",
-   "summary": "Leave the city behind this weekend and go galaxy-hunting! Cassiopeia - one of the easiest constellations to identify - points the way to the Andromeda Galaxy. The post Find the Andromeda Galaxy using Cassiopeia first…",
-   "start": "2026-10-07T08:01:01Z",
-   "peak": "2026-10-07T08:01:01Z",
-   "end": "2026-10-14T08:01:01Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/tonight/cassiopeia-the-queen-also-points-to-andromeda-galaxy/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/tonight/cassiopeia-the-queen-also-points-to-andromeda-galaxy/",
-     "fetched": "2026-10-07T13:36:58Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "approved",
-   "review": {
-    "by": "human",
-    "at": "2026-10-07T13:39:50Z",
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "dcfdee1be5f8"
-  },
-  {
-   "id": "news:earthsky-org-sun-sun-news-activity-solar-flare-cme-aurora-up",
-   "kind": "news",
-   "title": "Sun news: Sun-stuff headed our way, auroras to come?",
-   "summary": "Sun news, October 7, 2026: Sun-stuff from yesterday's M flares is heading to Earth. It's due to arrive on October 9, and could trigger auroras. The post Sun news: Sun-stuff headed our way, auroras to come? first…",
-   "start": "2026-10-07T09:00:53Z",
-   "peak": "2026-10-07T09:00:53Z",
-   "end": "2026-10-14T09:00:53Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "556a269c4f91"
-  },
-  {
-   "id": "news:earthsky-org-todays-image-moon-and-jupiter-pics-oct-6-2026",
-   "kind": "news",
-   "title": "Moon and Jupiter pics here! A cosmic hide-and-seek",
-   "summary": "On Tuesday morning, the moon slid in front of Jupiter, blocking it from view. Our EarthSky community shared their moon and Jupiter pics. The post Moon and Jupiter pics here! A cosmic hide-and-seek first appeared on…",
-   "start": "2026-10-07T10:55:34Z",
-   "peak": "2026-10-07T10:55:34Z",
-   "end": "2026-10-14T10:55:34Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/todays-image/moon-and-jupiter-pics-oct-6-2026/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/todays-image/moon-and-jupiter-pics-oct-6-2026/",
-     "fetched": "2026-10-07T13:36:58Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "810c6b6bc3c8"
-  },
-  {
-   "id": "news:www-universetoday-com-articles-thousands-of-black-holes-coul",
-   "kind": "news",
-   "title": "Thousands of Black Holes Could Be Lurking in Our Backyard—and You Can Help Find Them",
-   "summary": "According to stellar evolution models, there should be hundreds of millions of black holes floating around in our galaxy. But so far we’ve only found 70. That’s in large part because they are so hard to find, but a…",
-   "start": "2026-10-07T11:10:32Z",
-   "peak": "2026-10-07T11:10:32Z",
-   "end": "2026-10-14T11:10:32Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "Universe Today",
-   "sourceUrl": "https://www.universetoday.com/articles/thousands-of-black-holes-could-be-lurking-in-our-backyardand-you-can-help-find-them",
-   "sources": [
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/thousands-of-black-holes-could-be-lurking-in-our-backyardand-you-can-help-find-them",
-     "fetched": "2026-10-07T13:36:58Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "draft",
-   "review": {
-    "by": null,
-    "at": null,
-    "note": null
-   },
-   "firstSeen": "2026-10-07T13:36:58Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "04ca42be0550"
-  },
-  {
-   "id": "news:earthsky-org-astronomy-essentials-visible-planets-tonight-ma",
-   "kind": "news",
-   "title": "Visible planets and night sky guide for October",
-   "summary": "Visible planets and night sky guide. Tomorrow morning, look for the thin crescent moon close to the horizon, with Jupiter and the star Regulus nearby. The post Visible planets and night sky guide for October first…",
-   "start": "2026-10-07T12:00:08Z",
-   "peak": "2026-10-07T12:00:08Z",
-   "end": "2026-10-14T12:00:08Z",
-   "dateOnly": false,
-   "needsDark": false,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "EarthSky",
-   "sourceUrl": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-   "sources": [
-    {
-     "name": "EarthSky",
-     "url": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
-     "fetched": "2026-10-05T20:49:05Z"
-    }
-   ],
-   "confidence": 0.7,
-   "status": "approved",
-   "review": {
-    "by": "human",
-    "at": "2026-10-07T13:39:50Z",
-    "note": null
-   },
-   "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:58Z",
-   "contentHash": "f74e662d7cae"
-  },
-  {
-   "id": "shower:DRA:2026",
-   "kind": "meteorShower",
-   "title": "Draconids peak",
-   "summary": "Up to 10 an hour under a perfect dark sky, fewer in practice. Debris from comet 21P/Giacobini-Zinner, hitting the atmosphere at 20 km/s. Best after midnight when the radiant is high.",
-   "start": "2026-10-06T00:00:00Z",
-   "peak": "2026-10-08T12:00:00Z",
-   "end": "2026-10-10T23:59:00Z",
-   "dateOnly": true,
-   "needsDark": true,
-   "instrument": "nakedEye",
-   "radiantRaDeg": 262,
-   "radiantDecDeg": 54,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [],
-   "sourceName": "static (IAU MDC)",
-   "sourceUrl": "https://www.ta3.sk/IAUC22DB/MDC2007/",
-   "sources": [
-    {
-     "name": "static (IAU MDC)",
-     "url": "https://www.ta3.sk/IAUC22DB/MDC2007/",
-     "fetched": "2026-10-05T20:49:03Z"
-    }
-   ],
-   "confidence": 0.9,
-   "status": "approved",
-   "review": {
-    "by": "pipeline",
-    "at": "2026-10-05T20:49:03Z",
-    "note": "auto-approved"
-   },
-   "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
-   "contentHash": "b482c3ff64d5"
-  },
-  {
-   "id": "aurora:2026-10-09",
-   "kind": "aurora",
-   "title": "Aurora forecast: Kp 6 (G2)",
-   "summary": "NOAA forecasts a geomagnetic storm peaking around 09:00 UTC. Aurora possible from about 55° latitude and poleward (Scotland, Scandinavia, Canada). Look north from a dark spot after dusk; a phone camera on night mode sees it before your eyes do.",
-   "start": "2026-10-09T06:00:00Z",
-   "peak": "2026-10-09T09:00:00Z",
-   "end": "2026-10-09T15:00:00Z",
-   "dateOnly": false,
-   "needsDark": true,
-   "instrument": "nakedEye",
-   "radiantRaDeg": null,
-   "radiantDecDeg": null,
-   "magnitude": null,
-   "targetId": null,
-   "bodyIds": [
-    "sun"
-   ],
-   "sourceName": "NOAA SWPC",
-   "sourceUrl": "https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json",
-   "sources": [
-    {
-     "name": "NOAA SWPC",
-     "url": "https://services.swpc.noaa.gov/products/noaa-planetary-k-index-forecast.json",
-     "fetched": "2026-10-07T13:36:56Z"
-    }
-   ],
-   "confidence": 0.95,
-   "status": "approved",
-   "review": {
-    "by": "pipeline",
-    "at": "2026-10-07T13:36:56Z",
-    "note": "auto-approved"
-   },
-   "firstSeen": "2026-10-07T13:36:56Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
-   "contentHash": "175016ca9440"
-  },
   {
    "id": "shower:STA:2026",
    "kind": "meteorShower",
@@ -1373,7 +34,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "6bdbdd23bb00"
   },
   {
@@ -1402,15 +63,195 @@
     }
    ],
    "confidence": 0.9,
-   "status": "approved",
+   "status": "expired",
    "review": {
     "by": "pipeline",
-    "at": "2026-10-05T20:49:03Z",
+    "at": "2026-11-14T17:59:46Z",
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "e68ff3957da2"
+  },
+  {
+   "id": "news:earthsky-org-astronomy-essentials-taurid-meteors-all-you-nee",
+   "kind": "news",
+   "title": "Taurid meteors in 2026: All you need to know",
+   "summary": "You might see Taurid meteors from late October to early November. Expect up to 10 meteors per hour, and some of them might be fireballs. The post Taurid meteors in 2026: All you need to know first appeared on EarthSky .",
+   "start": "2026-11-11T08:45:12Z",
+   "peak": "2026-11-11T08:45:12Z",
+   "end": "2026-11-18T08:45:12Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/astronomy-essentials/taurid-meteors-all-you-need-to-know/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/astronomy-essentials/taurid-meteors-all-you-need-to-know/",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "3ddf54f65681"
+  },
+  {
+   "id": "news:earthsky-org-space-what-is-a-runaway-star",
+   "kind": "news",
+   "title": "A runaway star speeds in an unusual direction",
+   "summary": "A runaway star moves faster and in a different direction from the general stream of stars in our Milky Way Galaxy. Why? The post A runaway star speeds in an unusual direction first appeared on EarthSky .",
+   "start": "2026-11-11T11:30:00Z",
+   "peak": "2026-11-11T11:30:00Z",
+   "end": "2026-11-18T11:30:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/what-is-a-runaway-star/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/what-is-a-runaway-star/",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "5a6101ce1ba3"
+  },
+  {
+   "id": "news:earthsky-org-space-active-asteroid-6993-1995-bj4-tail-comet-",
+   "kind": "news",
+   "title": "This active asteroid has grown a tail! What happened?",
+   "summary": "Active asteroid 1995 BJ4 has grown a cometlike tail, leaving astronomers wondering what’s happening. The post This active asteroid has grown a tail! What happened? first appeared on EarthSky .",
+   "start": "2026-11-11T12:36:00Z",
+   "peak": "2026-11-11T12:36:00Z",
+   "end": "2026-11-18T12:36:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/active-asteroid-6993-1995-bj4-tail-comet-collision/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/active-asteroid-6993-1995-bj4-tail-comet-collision/",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "be5f4070e4c1"
+  },
+  {
+   "id": "news:science-nasa-gov-image-article-apod-2026-november-12-moon-ve",
+   "kind": "news",
+   "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+   "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "start": "2026-11-12T05:05:00Z",
+   "peak": "2026-11-12T05:05:00Z",
+   "end": "2026-11-19T05:05:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+     "fetched": "2026-11-14T17:59:15Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:15Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
+   "contentHash": "4b3b84491c7f"
+  },
+  {
+   "id": "news:earthsky-org-astronomy-essentials-mars-north-south-star",
+   "kind": "news",
+   "title": "Is there a North Star for Mars?",
+   "summary": "Is there a North Star for Mars ... a guide star for future explorers? Not in any satisfying way. But Martian stargazers wouldn't lack for things to see! The post Is there a North Star for Mars? first appeared on…",
+   "start": "2026-11-12T11:00:00Z",
+   "peak": "2026-11-12T11:00:00Z",
+   "end": "2026-11-19T11:00:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/astronomy-essentials/mars-north-south-star/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/astronomy-essentials/mars-north-south-star/",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "6fca0185e110"
   },
   {
    "id": "shower:NTA:2026",
@@ -1445,8 +286,656 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "01f4ab53992c"
+  },
+  {
+   "id": "news:earthsky-org-space-rare-martian-meteorite-teghaza-001-life-o",
+   "kind": "news",
+   "title": "‘Rosetta Stone for Mars:’ Martian meteorite hints at ancient life",
+   "summary": "A rare 4.1-billion-year-old Martian meteorite, Teghaza 001, provides new clues about Mars' ancient and more habitable past. The post ‘Rosetta Stone for Mars:’ Martian meteorite hints at ancient life first appeared on…",
+   "start": "2026-11-12T12:48:00Z",
+   "peak": "2026-11-12T12:48:00Z",
+   "end": "2026-11-19T12:48:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/rare-martian-meteorite-teghaza-001-life-on-mars/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/rare-martian-meteorite-teghaza-001-life-on-mars/",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "50ddc80ad5c9"
+  },
+  {
+   "id": "news:science-nasa-gov-missions-hubble-nasas-hubble-offers-cosmic-",
+   "kind": "news",
+   "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+   "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
+   "start": "2026-11-12T13:18:40Z",
+   "peak": "2026-11-12T13:18:40Z",
+   "end": "2026-11-19T13:18:40Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+     "fetched": "2026-11-14T17:59:15Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:15Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
+   "contentHash": "fa2ab2ced198"
+  },
+  {
+   "id": "news:www-nasa-gov-general-nasa-ames-stars-of-the-month-november-2",
+   "kind": "news",
+   "title": "NASA Ames Stars of the Month: November 2026",
+   "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the…",
+   "start": "2026-11-12T17:54:32Z",
+   "peak": "2026-11-12T17:54:32Z",
+   "end": "2026-11-19T17:54:32Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+     "fetched": "2026-11-14T17:59:15Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:15Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
+   "contentHash": "dee688304ae0"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-solving-the-space-junk-crisis",
+   "kind": "news",
+   "title": "Solving the Space Junk Crisis Isn't Just About Counting Trash—It’s About Control and Economics",
+   "summary": "If people ever think about cleaning up space debris, they typically think of something equivalent to a giant garbage truck in the sky, collecting lost astronaut tools and dead satellites then hauling them back down to…",
+   "start": "2026-11-12T18:42:31Z",
+   "peak": "2026-11-12T18:42:31Z",
+   "end": "2026-11-19T18:42:31Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/solving-the-space-junk-crisis-isnt-just-about-counting-trashits-about-control-and-economics",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/solving-the-space-junk-crisis-isnt-just-about-counting-trashits-about-control-and-economics",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "0a510e7de9d6"
+  },
+  {
+   "id": "news:www-nasa-gov-image-article-heart-in-the-sky-at-nasa-kennedy",
+   "kind": "news",
+   "title": "Heart in the Sky at NASA Kennedy",
+   "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy…",
+   "start": "2026-11-12T19:12:49Z",
+   "peak": "2026-11-12T19:12:49Z",
+   "end": "2026-11-19T19:12:49Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+     "fetched": "2026-11-14T17:59:15Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:15Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
+   "contentHash": "0a6bdf4f7861"
+  },
+  {
+   "id": "news:www-nasa-gov-missions-artemis-i-am-artemis-katie-spicer",
+   "kind": "news",
+   "title": "I Am Artemis Katie Spicer",
+   "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided…",
+   "start": "2026-11-12T20:10:02Z",
+   "peak": "2026-11-12T20:10:02Z",
+   "end": "2026-11-19T20:10:02Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+     "fetched": "2026-11-14T17:59:15Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:15Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
+   "contentHash": "a615197bd79b"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-asteroid-bennus-sample-delive",
+   "kind": "news",
+   "title": "Asteroid Bennu's Sample Delivers Another Surprise",
+   "summary": "Researchers compared the samples from asteroid Bennu with the Murchison meteorite and measured the amino acid β-alanine in both. Using new techniques, they were able to measure not only their isotopic compositions, but…",
+   "start": "2026-11-12T21:16:30Z",
+   "peak": "2026-11-12T21:16:30Z",
+   "end": "2026-11-19T21:16:30Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "1daef3eecdaf"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-euclids-first-data-release-a-",
+   "kind": "news",
+   "title": "Euclid's First Data Release: A Stepping Stone to its 3D Map of the Sky",
+   "summary": "The ESA's Euclid Space Telescope has released its first huge batch of data. It's all part of the telescope's mission to study dark energy and dark matter. The telescope is busy creating the largest ever 3D map of the…",
+   "start": "2026-11-12T23:04:05Z",
+   "peak": "2026-11-12T23:04:05Z",
+   "end": "2026-11-19T23:04:05Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "9808f43bce84"
+  },
+  {
+   "id": "news:science-nasa-gov-image-article-apod-2026-november-13-ngc-206",
+   "kind": "news",
+   "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+   "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "start": "2026-11-13T05:05:00Z",
+   "peak": "2026-11-13T05:05:00Z",
+   "end": "2026-11-20T05:05:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+     "fetched": "2026-11-14T17:59:15Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:15Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
+   "contentHash": "827028f9ace6"
+  },
+  {
+   "id": "news:earthsky-org-brightest-stars-mirach-guide-star-to-three-gala",
+   "kind": "news",
+   "title": "Mirach is your guide star to finding 3 galaxies",
+   "summary": "Mirach in the constellation Andromeda helps stargazers locate the Andromeda Galaxy, the Triangulum Galaxy, and \"Mirach's Ghost.\" The post Mirach is your guide star to finding 3 galaxies first appeared on EarthSky .",
+   "start": "2026-11-13T10:50:00Z",
+   "peak": "2026-11-13T10:50:00Z",
+   "end": "2026-11-20T10:50:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/brightest-stars/mirach-guide-star-to-three-galaxies/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/brightest-stars/mirach-guide-star-to-three-galaxies/",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "7f4026d5e5b9"
+  },
+  {
+   "id": "news:earthsky-org-space-mountain-sized-asteroid-1999-an10-pass-cl",
+   "kind": "news",
+   "title": "Mountain-sized asteroid 1999 AN10 to pass close to Earth in 2027",
+   "summary": "Asteroid 1999 AN10, which might be a mile wide, will pass Earth on August 7, 2027, about 1 lunar distance away. The encounter poses no danger. The post Mountain-sized asteroid 1999 AN10 to pass close to Earth in 2027…",
+   "start": "2026-11-13T12:43:00Z",
+   "peak": "2026-11-13T12:43:00Z",
+   "end": "2026-11-20T12:43:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "EarthSky",
+   "sourceUrl": "https://earthsky.org/space/mountain-sized-asteroid-1999-an10-pass-close-to-earth-aug-7-2027/",
+   "sources": [
+    {
+     "name": "EarthSky",
+     "url": "https://earthsky.org/space/mountain-sized-asteroid-1999-an10-pass-close-to-earth-aug-7-2027/",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "eb2ad068038a"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-tears-of-the-lion-catching-th",
+   "kind": "news",
+   "title": "Tears of the Lion: Catching the 2026 Leonid Meteors",
+   "summary": "It’s always worth being vigilant when skywatching in mid- to late November. Every year, a few Leonid meteors punctuate the November sky morning sky around the 17th. These silent harbingers are only a hint at the…",
+   "start": "2026-11-13T13:21:00Z",
+   "peak": "2026-11-13T13:21:00Z",
+   "end": "2026-11-20T13:21:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/tears-of-the-lion-catching-the-2026-leonid-meteors",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/tears-of-the-lion-catching-the-2026-leonid-meteors",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "468f4c8c8eba"
+  },
+  {
+   "id": "news:www-nasa-gov-image-article-gemini-astronaut-photos-inspired-",
+   "kind": "news",
+   "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+   "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous…",
+   "start": "2026-11-13T16:05:54Z",
+   "peak": "2026-11-13T16:05:54Z",
+   "end": "2026-11-20T16:05:54Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+     "fetched": "2026-11-14T17:59:15Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:15Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
+   "contentHash": "8d0dbac5e6e5"
+  },
+  {
+   "id": "news:www-nasa-gov-image-article-outbursts-from-a-massive-star",
+   "kind": "news",
+   "title": "Outbursts from a Massive Star",
+   "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile…",
+   "start": "2026-11-13T16:39:33Z",
+   "peak": "2026-11-13T16:39:33Z",
+   "end": "2026-11-20T16:39:33Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "NASA",
+   "sourceUrl": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+     "fetched": "2026-11-14T17:59:15Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:15Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
+   "contentHash": "585205526175"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-dense-galaxy-clusters-foster-",
+   "kind": "news",
+   "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
+   "summary": "The Cosmic Noon was when the Universe's Stelliferous Era Began, and star formation was prodigious during that epoch. But since then, star formation has slowed to a relative crawl, despite the fact that we can watch them…",
+   "start": "2026-11-13T17:51:07Z",
+   "peak": "2026-11-13T17:51:07Z",
+   "end": "2026-11-20T17:51:07Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "9e414def5ec8"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-lofar-takes-the-deepest-image",
+   "kind": "news",
+   "title": "LOFAR Takes the Deepest Image of the Low-Frequency Radio Sky to Date",
+   "summary": "Using the Low Frequency Array (LOFAR), an international team led by Leiden University has produced the sharpest and most sensitive radio image of the sky ever made at low radio frequencies.",
+   "start": "2026-11-13T21:30:58Z",
+   "peak": "2026-11-13T21:30:58Z",
+   "end": "2026-11-20T21:30:58Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "8b5f5fa9cf94"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-spacex-launches-starship-but-",
+   "kind": "news",
+   "title": "SpaceX Launches Starship But Passes Up Booster Catch for Safety's Sake",
+   "summary": "SpaceX sent its Starship on a flight that was meant to feature a first-ever retrieval of both rocket stages, but a launch-pad catch of the first-stage booster had to be canceled due to safety concerns.",
+   "start": "2026-11-13T23:12:00Z",
+   "peak": "2026-11-13T23:12:00Z",
+   "end": "2026-11-20T23:12:00Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "4ac24c30634e"
+  },
+  {
+   "id": "news:www-universetoday-com-articles-when-einsteins-gravitational-",
+   "kind": "news",
+   "title": "When Einstein's Gravitational Waves Meet Newton's Tides",
+   "summary": "A researcher at Freie Universität Berlin has developed a theoretical framework for searching high-precision measurements for possible relativistic traces in lunar tides.",
+   "start": "2026-11-14T00:35:51Z",
+   "peak": "2026-11-14T00:35:51Z",
+   "end": "2026-11-21T00:35:51Z",
+   "dateOnly": false,
+   "needsDark": false,
+   "instrument": "nakedEye",
+   "radiantRaDeg": null,
+   "radiantDecDeg": null,
+   "magnitude": null,
+   "targetId": null,
+   "bodyIds": [],
+   "sourceName": "Universe Today",
+   "sourceUrl": "https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides",
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides",
+     "fetched": "2026-11-14T17:59:16Z"
+    }
+   ],
+   "confidence": 0.7,
+   "status": "draft",
+   "review": {
+    "by": null,
+    "at": null,
+    "note": null
+   },
+   "firstSeen": "2026-11-14T17:59:16Z",
+   "lastSeen": "2026-11-14T17:59:16Z",
+   "contentHash": "344734e1a9cb"
   },
   {
    "id": "shower:LEO:2026",
@@ -1481,7 +970,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "789d770e89e8"
   },
   {
@@ -1517,7 +1006,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "474d90f1b669"
   },
   {
@@ -1553,7 +1042,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "7be2a3a29f9b"
   },
   {
@@ -1589,7 +1078,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "f5c698cc5125"
   },
   {
@@ -1627,7 +1116,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "b955c261ae1a"
   },
   {
@@ -1663,7 +1152,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "ff23e04dffc1"
   },
   {
@@ -1699,7 +1188,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "15124d6969a0"
   },
   {
@@ -1735,7 +1224,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "e42f01f40700"
   },
   {
@@ -1773,7 +1262,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "e510e93abc91"
   },
   {
@@ -1809,7 +1298,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "b758b78a7d30"
   },
   {
@@ -1845,7 +1334,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "6362677ace10"
   },
   {
@@ -1881,7 +1370,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "e14453b278c6"
   },
   {
@@ -1917,7 +1406,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "0d4a18dd46c6"
   },
   {
@@ -1953,7 +1442,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "cb0e9ce3256c"
   },
   {
@@ -1989,7 +1478,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "656d99906122"
   },
   {
@@ -2025,7 +1514,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "0ff17d7468a4"
   },
   {
@@ -2061,7 +1550,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:03Z",
-   "lastSeen": "2026-10-07T13:36:55Z",
+   "lastSeen": "2026-11-14T17:59:14Z",
    "contentHash": "e1995c7b2db8"
   },
   {
@@ -2099,7 +1588,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "7acabe372ada"
   },
   {
@@ -2137,7 +1626,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "8e578eac1244"
   },
   {
@@ -2175,7 +1664,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "81bd40cd9eb5"
   },
   {
@@ -2213,7 +1702,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "582dbf87b169"
   },
   {
@@ -2251,7 +1740,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "60c3a2ba6389"
   },
   {
@@ -2289,7 +1778,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "b392ede1ec86"
   },
   {
@@ -2327,7 +1816,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "c6906247b141"
   },
   {
@@ -2365,7 +1854,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "59fd4694a0f6"
   },
   {
@@ -2403,7 +1892,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "61cbe27718ae"
   },
   {
@@ -2441,7 +1930,7 @@
     "note": "auto-approved"
    },
    "firstSeen": "2026-10-05T20:49:05Z",
-   "lastSeen": "2026-10-07T13:36:56Z",
+   "lastSeen": "2026-11-14T17:59:15Z",
    "contentHash": "2b85ebefb57f"
   }
  ]
